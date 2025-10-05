@@ -12,7 +12,7 @@ Key features include:
 
 ## 📊 Project Information
 
-| Category               | Details                                           |
-|-------------------------|--------------------------------------------------|
-| **Technologies Used**   | Java Spring, Ruby, Docker, MySQL, MongoDB, Redis |
-| **Services**            |         |
+| Category               | Details                                                                                                                                                                                                  |
+|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Technologies Used**   | Java Spring, Ruby, Docker, MySQL, MongoDB, Redis                                                                                                                                                         |
+| **Services**            | User: https://github.com/anhtrung123A/chiikawa-user-service<br/> Product<br/>Payment<br/>Inventory<br/>Search<br/>Order<br/>Notification<br/>Cart: https://github.com/TranHoangVu25/chikawa-cart-service |
