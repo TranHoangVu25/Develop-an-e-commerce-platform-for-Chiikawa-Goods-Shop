@@ -6,7 +6,7 @@ import time
 import csv
 
 BASE_URL = "https://chiikawamarket.jp"
-COLLECTION_PATH = "/en/collections/spgoods"
+COLLECTION_PATH = "/en/collections/interior"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "

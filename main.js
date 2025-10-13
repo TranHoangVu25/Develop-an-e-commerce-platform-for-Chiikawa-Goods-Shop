@@ -93,8 +93,8 @@ for (let i = 0; i < 201; i++) {
     images,
     categories: [
       {
-        "name": "PC/Smartphone goods",
-        "slug": "spgoods"
+        "name": "Interior",
+        "slug": "interior"
       }
     ],
     characters,
