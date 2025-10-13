@@ -24,15 +24,15 @@ async function fetchHtml(url) {
 const products = []
 
 // Duyệt từng dòng (từng link)
-for (let i = 0; i < 51; i++) {
+for (let i = 0; i < 201; i++) {
   const TARGET_URL = lines[i].trim();
   if (!TARGET_URL || TARGET_URL.startsWith("#")) continue; // bỏ dòng trống hoặc comment
 
-  console.log(`🟢 Đang xử lý link ${i + 1}: ${TARGET_URL}`);
+  console.log(`\Đang xử lý link ${i + 1}: ${TARGET_URL}`);
 
   const html = await fetchHtml(TARGET_URL);
   if (!html) {
-    console.log("⚠️ Bỏ qua vì không tải được trang.");
+    console.log("Bỏ qua vì không tải được trang.");
     continue;
   }
 
@@ -54,8 +54,12 @@ for (let i = 0; i < 51; i++) {
   }
 
   for (let j = 0; j < categoryListHtml.length; j++) {
-    const a = categoryListHtml[j].querySelector("a");
-    if (a) characters.push(a.innerHTML);
+  const a = categoryListHtml[j].querySelector("a");
+  if (a) {
+    const name = a.innerHTML.trim();
+    const slug = name.toLowerCase().replace(/\s+/g, "-"); // tạo slug đơn giản
+    characters.push({ name, slug });
+    }
   }
 
   const variants = [];
@@ -80,14 +84,19 @@ for (let i = 0; i < 51; i++) {
   const vendor = document.querySelector("div.product__vendor")?.innerHTML || "";
 
   const product = {
-    url: TARGET_URL,
+    // url: TARGET_URL,
     id,
     variants,
     price,
     name,
     description,
     images,
-    categories: ["Amenity"],
+    categories: [
+      {
+        "name": "PC/Smartphone goods",
+        "slug": "spgoods"
+      }
+    ],
     characters,
     vendor,
   };
@@ -98,5 +107,5 @@ for (let i = 0; i < 51; i++) {
 // Ghi ra file JSON
   fs.writeFileSync("products.json", jsonContent, "utf8");
 
-  console.log("✅ Đã xuất file products.json");
+  console.log("Đã xuất file products.json");
 }
