@@ -4,7 +4,7 @@ import fs from "fs";
 import { JSDOM } from "jsdom";
 
 // Đọc file chứa danh sách link (mỗi link 1 dòng)
-const content = fs.readFileSync("product_links.csv", "utf8");
+const content = fs.readFileSync("product_links_PlushMascot.csv", "utf8");
 const lines = content.split("\n");
 
 // Hàm tải HTML
@@ -82,6 +82,17 @@ for (let i = 0; i < 201; i++) {
   const name = document.querySelector("div.product__title h1")?.innerHTML || "";
   const description = document.querySelector("div.product__description")?.textContent.trim() || "";
   const vendor = document.querySelector("div.product__vendor")?.innerHTML || "";
+  const status_item = document.querySelector("div.product-form__buttons").querySelector("button.product-form__submit").querySelector("span").innerHTML || "";  
+  // console.log(status_item.length);
+  let status = ""
+  if (status_item.length == 12){
+    status = "available"
+    // console.log(status)
+  }
+  else{
+    status = "sold_out"
+    // console.log(status)
+  }
 
   const product = {
     // url: TARGET_URL,
@@ -90,11 +101,12 @@ for (let i = 0; i < 201; i++) {
     price,
     name,
     description,
+    status,
     images,
     categories: [
       {
-        "name": "Interior",
-        "slug": "interior"
+        "name": "Plush/Mascot",
+        "slug": "nuigurumi-mascot"
       }
     ],
     characters,
