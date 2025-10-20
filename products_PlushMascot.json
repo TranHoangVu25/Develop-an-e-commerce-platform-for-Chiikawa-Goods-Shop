@@ -19,14 +19,13 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
-      }
-    ],
-    "characters": [
+      },
       {
         "name": "Mascot",
         "slug": "mascot"
       }
     ],
+    "characters": [],
     "vendor": "エイコー"
   },
   {
@@ -51,10 +50,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "エイコー"
@@ -81,10 +76,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "エイコー"
@@ -111,190 +102,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      }
-    ],
-    "vendor": "エイコー"
-  },
-  {
-    "id": "4513750146349",
-    "variants": [],
-    "price": 1430,
-    "name": "Chiikawa Mochikororin (Chiikawa)",
-    "description": "“Chiikawa” releases “Mochikorin”!!\nMade with mochi mochi material, it has an outstanding feel, and is the size of Plush that fits in the palm of your hand♪\n※With ball chain included\n\nSize: Approx. H50×W60×D80mm\nWeight: Approx. 30g\nMaterial: Polyester\nManufactured in: China",
-    "status": "available",
-    "images": [],
-    "categories": [
-      {
-        "name": "Plush/Mascot",
-        "slug": "nuigurumi-mascot"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      }
-    ],
-    "vendor": "エイコー"
-  },
-  {
-    "id": "4513750146356",
-    "variants": [],
-    "price": 1430,
-    "name": "Chiikawa Mochikororin (Hachiware)",
-    "description": "“Chiikawa” releases “Mochikorin”!!\nMade with mochi mochi material, it has an outstanding feel and is palm-sized Plush♪\n*Includes ball chain\n\nSize: Approx. H50×W60×D80mm\nWeight: Approx. 30g\nMaterial: Polyester\nManufactured in: China",
-    "status": "available",
-    "images": [],
-    "categories": [
-      {
-        "name": "Plush/Mascot",
-        "slug": "nuigurumi-mascot"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      }
-    ],
-    "vendor": "エイコー"
-  },
-  {
-    "id": "4513750146363",
-    "variants": [],
-    "price": 1430,
-    "name": "Chiikawa Mochikororin (Usagi)",
-    "description": "“Chiikawa” releases “Mochikorin”!!\nMade with mochi-like material, it's an extraordinary palm-sized Plush♪\n※ Comes with ball chain\n\nSize: Approx. H50×W60×D80mm\nWeight: Approx. 30g\nMaterial: Polyester\nManufactured in: China",
-    "status": "available",
-    "images": [],
-    "categories": [
-      {
-        "name": "Plush/Mascot",
-        "slug": "nuigurumi-mascot"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      }
-    ],
-    "vendor": "エイコー"
-  },
-  {
-    "id": "4513750146370",
-    "variants": [],
-    "price": 1430,
-    "name": "Chiikawa Mochikororin (Momonga)",
-    "description": "“Chiikawa” is now on sale with “Mochikorin”!!\nMade with mochi-mochi material, it has an outstanding feel, and is the size of a palm at Plush♪\n*Comes with a ball chain\n\nSize: Approximately H50×W60×D80mm\nWeight: Approximately 30g\nMaterial: Polyester\nManufacturing location: China",
-    "status": "available",
-    "images": [],
-    "categories": [
-      {
-        "name": "Plush/Mascot",
-        "slug": "nuigurumi-mascot"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Momonga",
-        "slug": "momonga"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      }
-    ],
-    "vendor": "エイコー"
-  },
-  {
-    "id": "4513750146387",
-    "variants": [],
-    "price": 1430,
-    "name": "Chiikawa Mochikororin (Kurimanju)",
-    "description": "“Chiikawa” releases “Mochikorin”!!\nMade with mochi-mochi material, it is a palm-sized Plush with an exceptional feel ♪\n*Includes ball chain\n\nSize: Approx. H50×W60×D80mm\nWeight: Approx. 30g\nMaterial: Polyester\nManufactured in: China",
-    "status": "available",
-    "images": [],
-    "categories": [
-      {
-        "name": "Plush/Mascot",
-        "slug": "nuigurumi-mascot"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Kurimanju",
-        "slug": "kurimanju"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      }
-    ],
-    "vendor": "エイコー"
-  },
-  {
-    "id": "4513750146394",
-    "variants": [],
-    "price": 1430,
-    "name": "Chiikawa Mochikororin (Shisa)",
-    "description": "\"Chiikawa\" releases \"Mochikorin\"!!\nMade with mochi material, it's a palm-sized Plush with exceptional texture♪\n※Includes ball chain\n\nSize: Approx. H50×W60×D80mm\nWeight: Approx. 30g\nMaterial: Polyester\nManufactured in: China",
-    "status": "available",
-    "images": [],
-    "categories": [
-      {
-        "name": "Plush/Mascot",
-        "slug": "nuigurumi-mascot"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Shisa",
-        "slug": "shisa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "エイコー"
@@ -342,10 +149,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "ドリームズ"
@@ -393,10 +196,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "ドリームズ"
@@ -444,10 +243,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "ドリームズ"
@@ -478,10 +273,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "バンダイ（トイ）"
@@ -511,10 +302,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "バンダイ（トイ）"
@@ -552,10 +339,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "バンダイ（トイ）"
@@ -594,24 +377,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Bakery",
-        "slug": "chiikawa-bakery"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -650,24 +425,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Bakery",
-        "slug": "chiikawa-bakery"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -706,24 +473,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Bakery",
-        "slug": "chiikawa-bakery"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -762,24 +521,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Bakery",
-        "slug": "chiikawa-bakery"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -818,24 +569,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Bakery",
-        "slug": "chiikawa-bakery"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -874,24 +617,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Bakery",
-        "slug": "chiikawa-bakery"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -917,24 +652,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa× Yomiuri Giants",
-        "slug": "chiikawa×-yomiuri-giants"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -960,24 +687,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa× Yomiuri Giants",
-        "slug": "chiikawa×-yomiuri-giants"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1003,24 +722,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa× Yomiuri Giants",
-        "slug": "chiikawa×-yomiuri-giants"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1046,24 +757,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa× Yomiuri Giants",
-        "slug": "chiikawa×-yomiuri-giants"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1089,24 +792,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa× Yomiuri Giants",
-        "slug": "chiikawa×-yomiuri-giants"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1132,24 +827,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa× Yomiuri Giants",
-        "slug": "chiikawa×-yomiuri-giants"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1175,24 +862,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa× Yomiuri Giants",
-        "slug": "chiikawa×-yomiuri-giants"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1218,24 +897,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa× Yomiuri Giants",
-        "slug": "chiikawa×-yomiuri-giants"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1274,20 +945,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1326,20 +993,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1378,20 +1041,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1436,10 +1095,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1484,10 +1139,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1532,10 +1183,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1602,24 +1249,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1686,24 +1325,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1770,24 +1401,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1854,24 +1477,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1938,24 +1553,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -2022,24 +1629,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -2106,24 +1705,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -2190,24 +1781,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -2246,20 +1829,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -2298,20 +1877,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -2350,20 +1925,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -2413,20 +1984,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -2476,20 +2043,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -2539,20 +2102,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -2602,20 +2161,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -2665,20 +2220,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -2731,20 +2282,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -2797,20 +2344,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -2863,20 +2406,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -2928,20 +2467,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -2993,20 +2528,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -3029,24 +2560,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -3071,24 +2594,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Ode",
         "slug": "ode"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -3111,24 +2626,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Goblin",
         "slug": "goblin"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -3152,24 +2659,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Anoko",
         "slug": "anoko"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -3238,20 +2737,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Sushi",
-        "slug": "chiikawa-sushi"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -3320,20 +2815,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Sushi",
-        "slug": "chiikawa-sushi"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -3402,20 +2893,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Sushi",
-        "slug": "chiikawa-sushi"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -3484,20 +2971,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Sushi",
-        "slug": "chiikawa-sushi"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -3566,20 +3049,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Sushi",
-        "slug": "chiikawa-sushi"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -3648,20 +3127,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Sushi",
-        "slug": "chiikawa-sushi"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -3730,20 +3205,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Sushi",
-        "slug": "chiikawa-sushi"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -3812,20 +3283,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Sushi",
-        "slug": "chiikawa-sushi"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -3894,20 +3361,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Sushi",
-        "slug": "chiikawa-sushi"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -3952,14 +3415,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Chiikawa Sushi",
-        "slug": "chiikawa-sushi"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -4004,14 +3459,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Chiikawa Sushi",
-        "slug": "chiikawa-sushi"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -4056,14 +3503,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Chiikawa Sushi",
-        "slug": "chiikawa-sushi"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -4103,24 +3542,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Parallel world! ?",
-        "slug": "chiikawa-parallel-world!-?"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -4160,24 +3591,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Parallel world! ?",
-        "slug": "chiikawa-parallel-world!-?"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -4217,24 +3640,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Parallel world! ?",
-        "slug": "chiikawa-parallel-world!-?"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -4257,24 +3672,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Parallel world! ?",
-        "slug": "chiikawa-parallel-world!-?"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -4300,28 +3707,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
-      },
-      {
-        "name": "Chiikawa Parallel world! ?",
-        "slug": "chiikawa-parallel-world!-?"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -4344,20 +3739,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -4379,22 +3770,13 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Yoroi-san",
-        "slug": "yoroi-san"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       },
       {
         "name": "Mascot",
         "slug": "mascot"
       }
     ],
+    "characters": [],
     "vendor": "グレイ・パーカー・サービス"
   },
   {
@@ -4419,20 +3801,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -4459,20 +3837,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -4499,20 +3873,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -4540,12 +3910,7 @@
         "slug": "nuigurumi-mascot"
       }
     ],
-    "characters": [
-      {
-        "name": "Plush",
-        "slug": "plush"
-      }
-    ],
+    "characters": [],
     "vendor": "グレイ・パーカー・サービス"
   },
   {
@@ -4582,20 +3947,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -4634,20 +3995,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -4686,20 +4043,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -4729,10 +4082,6 @@
       {
         "name": "Ode",
         "slug": "ode"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -4771,20 +4120,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -4823,20 +4168,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -4876,20 +4217,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -4911,20 +4248,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -4946,20 +4279,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -4994,20 +4323,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5042,20 +4367,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5095,20 +4416,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5148,20 +4465,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5201,20 +4514,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5253,20 +4562,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5305,20 +4610,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5359,20 +4660,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5395,24 +4692,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5450,20 +4739,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5501,20 +4786,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5552,20 +4833,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5603,20 +4880,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5654,20 +4927,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5705,20 +4974,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5759,20 +5024,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5813,20 +5074,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5867,20 +5124,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5904,20 +5157,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5982,20 +5231,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6060,20 +5305,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6138,20 +5379,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6216,20 +5453,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6294,20 +5527,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6372,20 +5601,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6450,20 +5675,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6528,20 +5749,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6581,20 +5798,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6634,20 +5847,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6688,20 +5897,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6770,20 +5975,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6852,20 +6053,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6934,20 +6131,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7015,20 +6208,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7095,20 +6284,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7176,20 +6361,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7257,20 +6438,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7338,20 +6515,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7374,20 +6547,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7433,10 +6602,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7482,10 +6647,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7531,10 +6692,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7603,24 +6760,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Baby",
-        "slug": "chiikawa-baby"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7689,24 +6838,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Baby",
-        "slug": "chiikawa-baby"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7775,24 +6916,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Baby",
-        "slug": "chiikawa-baby"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7861,24 +6994,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Baby",
-        "slug": "chiikawa-baby"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7947,24 +7072,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Baby",
-        "slug": "chiikawa-baby"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -8033,24 +7150,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Baby",
-        "slug": "chiikawa-baby"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -8119,24 +7228,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Baby",
-        "slug": "chiikawa-baby"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -8205,24 +7306,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Baby",
-        "slug": "chiikawa-baby"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -8271,14 +7364,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Chiikawa Baby",
-        "slug": "chiikawa-baby"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -8327,14 +7412,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Chiikawa Baby",
-        "slug": "chiikawa-baby"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -8383,14 +7460,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Chiikawa Baby",
-        "slug": "chiikawa-baby"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -8418,24 +7487,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Baby",
-        "slug": "chiikawa-baby"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -8484,20 +7545,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -8546,20 +7603,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -8608,20 +7661,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -8671,12 +7720,7 @@
         "slug": "nuigurumi-mascot"
       }
     ],
-    "characters": [
-      {
-        "name": "Plush",
-        "slug": "plush"
-      }
-    ],
+    "characters": [],
     "vendor": "グレイ・パーカー・サービス"
   },
   {
@@ -8685,7 +7729,7 @@
     "price": 14520,
     "name": "【予約】ちいかわ Kiramekko Teddy Bear コンプリートボックス（全6種）【2025年11月下旬より順次発送予定（発送延期の場合もキャンセル不可）】【通常商品と同時購入・配送希望日指定不可】【キャンペーン対象外】",
     "description": "[Please read carefully]\n◆ [Chiikawa Kiramekko Teddy Bear Complete Box (6 types)] cannot be ordered or purchased simultaneously with other Pre-orders start.If purchased together, your order will be canceled.Please understand.\n◆ Products on sale with Pre-orders start cannot be ordered simultaneously.Please order separately.\n◆ Cancellations after ordering Pre-orders start are generally not accepted.We also do not accept returns or exchanges for non-defective products due to customer convenience.\n◆ Cancellations in case of delivery delays are generally not accepted.Please understand.\n◆ You cannot specify a desired delivery date and time for Pre-orders start.Pre-orders start will be shipped sequentially as soon as preparations are complete.\n◆ Even if you specify a desired delivery date and time when ordering, we cannot deliver according to your wishes.If you are not present on the delivery date, a notice of absence from the delivery company will be provided, so please inform the delivery company of a convenient date and time for you.\n◆ This product is not eligible for campaign.Novelty items will not be enclosed, so please understand.\n◆ We do not offer wrapping services.Please understand.\n\nBright and sparkling eyes soothe the heart, from the new brand \"Kiramekko\", Teddy Bears wearing Costume make their appearance!\n \n※ This \"Complete Box\" contains all 6 character types.\nSize (approx.):　Main body: H140×W115×D75mm　Carabiner: H22×W12　PKG individual box: H150×W112×D112mm　BOX: H152×W343×D231mmMaterial:　Main body: Polyester, ABS, PMMA, PU　Carabiner: Zinc alloy, iron　Non-woven fabric: PP, nylonManufactured in: China",
-    "status": "available",
+    "status": "sold_out",
     "images": [
       "https://chiikawamarket.jp/cdn/shop/files/1009.jpg",
       "https://chiikawamarket.jp/cdn/shop/files/ck_Kiramekko001_d5b5527a-4b1b-46c5-b7aa-f95e16278338.jpg",
@@ -8711,6 +7755,10 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
@@ -8737,14 +7785,6 @@
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -8769,20 +7809,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -8807,20 +7843,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -8845,20 +7877,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -8892,6 +7920,10 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
@@ -8906,14 +7938,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -8942,10 +7966,6 @@
       {
         "name": "Chimaera",
         "slug": "chimaera"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -8970,12 +7990,7 @@
         "slug": "nuigurumi-mascot"
       }
     ],
-    "characters": [
-      {
-        "name": "Plush",
-        "slug": "plush"
-      }
-    ],
+    "characters": [],
     "vendor": "グレイ・パーカー・サービス"
   },
   {
@@ -9003,10 +8018,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9037,10 +8048,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9070,10 +8077,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9143,10 +8146,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9186,10 +8185,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9221,18 +8216,13 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Plush",
-        "slug": "plush"
       },
       {
         "name": "Mascot",
         "slug": "mascot"
       }
     ],
+    "characters": [],
     "vendor": "グレイ・パーカー・サービス"
   },
   {
@@ -9262,20 +8252,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9306,6 +8292,10 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
@@ -9332,10 +8322,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9363,16 +8349,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9398,24 +8384,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Interior",
+        "slug": "interior"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9440,24 +8418,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Interior",
+        "slug": "interior"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9486,10 +8456,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9518,10 +8484,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9550,10 +8512,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9576,20 +8534,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9612,20 +8566,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9648,20 +8598,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9689,14 +8635,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Chiikawa Exciting Amusement Park",
-        "slug": "chiikawa-exciting-amusement-park"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9727,14 +8665,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Chiikawa Exciting Amusement Park",
-        "slug": "chiikawa-exciting-amusement-park"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9765,14 +8695,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Chiikawa Exciting Amusement Park",
-        "slug": "chiikawa-exciting-amusement-park"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9801,18 +8723,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Yoroi-san",
-        "slug": "yoroi-san"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Chiikawa Exciting Amusement Park",
-        "slug": "chiikawa-exciting-amusement-park"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9837,24 +8747,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Exciting Amusement Park",
-        "slug": "chiikawa-exciting-amusement-park"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9879,24 +8781,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Exciting Amusement Park",
-        "slug": "chiikawa-exciting-amusement-park"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9921,24 +8815,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Exciting Amusement Park",
-        "slug": "chiikawa-exciting-amusement-park"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9963,24 +8849,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Exciting Amusement Park",
-        "slug": "chiikawa-exciting-amusement-park"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -10005,28 +8883,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Yoroi-san",
-        "slug": "yoroi-san"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Exciting Amusement Park",
-        "slug": "chiikawa-exciting-amusement-park"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -10048,20 +8914,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -10092,14 +8954,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Chiikawa Restaurant",
-        "slug": "chiikawa-restaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -10130,14 +8984,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Chiikawa Restaurant",
-        "slug": "chiikawa-restaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -10168,14 +9014,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Chiikawa Restaurant",
-        "slug": "chiikawa-restaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -10197,24 +9035,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Restaurant",
-        "slug": "chiikawa-restaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -10236,24 +9066,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Restaurant",
-        "slug": "chiikawa-restaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -10275,24 +9097,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Restaurant",
-        "slug": "chiikawa-restaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -10315,24 +9129,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Restaurant",
-        "slug": "chiikawa-restaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -10355,24 +9161,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Restaurant",
-        "slug": "chiikawa-restaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -10395,24 +9193,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Restaurant",
-        "slug": "chiikawa-restaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -10435,24 +9225,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Restaurant",
-        "slug": "chiikawa-restaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -10474,24 +9256,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Restaurant",
-        "slug": "chiikawa-restaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -10513,24 +9287,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Restaurant",
-        "slug": "chiikawa-restaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -10552,24 +9318,16 @@
       {
         "name": "Plush/Mascot",
         "slug": "nuigurumi-mascot"
+      },
+      {
+        "name": "Mascot",
+        "slug": "mascot"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Mascot",
-        "slug": "mascot"
-      },
-      {
-        "name": "Chiikawa Restaurant",
-        "slug": "chiikawa-restaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -10597,14 +9355,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -10632,14 +9382,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"

@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Chiikawa",
+        "slug": "chiikawa",
+        "image": "https://chiikawamarket.jp/cdn/shop/collections/01chiikawa.png"
+    },
+    {
+        "name": "Hachiware",
+        "slug": "hachiware",
+        "image": "https://chiikawamarket.jp/cdn/shop/collections/02hachiware.png"
+    },
+    {
+        "name": "Usagi",
+        "slug": "usagi",
+        "image": "https://chiikawamarket.jp/cdn/shop/collections/03usagi.png"
+    },
+    {
+        "name": "Momonga",
+        "slug": "momonga",
+        "image": "https://chiikawamarket.jp/cdn/shop/collections/04momonga.png"
+    },
+    {
+        "name": "Kurimanju",
+        "slug": "kurimanju",
+        "image": "https://chiikawamarket.jp/cdn/shop/collections/05kurimanju.png"
+    },
+    {
+        "name": "Rakko",
+        "slug": "rakko",
+        "image": "https://chiikawamarket.jp/cdn/shop/collections/06rakko.png"
+    },
+    {
+        "name": "Shisa",
+        "slug": "shisa",
+        "image": "https://chiikawamarket.jp/cdn/shop/collections/07sisa.png"
+    },
+    {
+        "name": "Furuhonya",
+        "slug": "furuhonya",
+        "image": "https://chiikawamarket.jp/cdn/shop/collections/08furuhonya.png"
+    },
+    {
+        "name": "Anoko",
+        "slug": "anoko",
+        "image": "https://chiikawamarket.jp/cdn/shop/collections/09anoko.png"
+    },
+    {
+        "name": "Dekatsuyo",
+        "slug": "dekatsuyo",
+        "image": "https://chiikawamarket.jp/cdn/shop/collections/10dekatsuyo.png"
+    },
+    {
+        "name": "Ode",
+        "slug": "ode",
+        "image": "https://chiikawamarket.jp/cdn/shop/collections/11ode.png"
+    },
+    {
+        "name": "Chimaera",
+        "slug": "chimaera",
+        "image": "https://chiikawamarket.jp/cdn/shop/collections/12kimera.png"
+    },
+    {
+        "name": "Yoroi-san",
+        "slug": "yoroisan",
+        "image": "https://chiikawamarket.jp/cdn/shop/collections/13yoroisan.png"
+    },
+    {
+        "name": "Beetle",
+        "slug": "beetle",
+        "image": "https://chiikawamarket.jp/cdn/shop/collections/14kabutomusi.png"
+    },
+    {
+        "name": "Goblin",
+        "slug": "goblin",
+        "image": "https://chiikawamarket.jp/cdn/shop/collections/15goburin.png"
+    },
+    {
+        "name": "Star",
+        "slug": "star",
+        "image": "https://chiikawamarket.jp/cdn/shop/collections/16hoshi.png"
+    }
+]

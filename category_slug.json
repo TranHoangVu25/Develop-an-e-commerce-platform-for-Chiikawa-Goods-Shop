@@ -1,0 +1,270 @@
+[
+    {
+        "name": "Plush/Mascot",
+        "slug": "nuigurumi-mascot"
+    },
+    {
+        "name": "Plush",
+        "slug": "nuigurumi"
+    },
+    {
+        "name": "Mascot",
+        "slug": "mascot"
+    },
+    {
+        "name": "Goods",
+        "slug": "goods"
+    },
+    {
+        "name": "Bag",
+        "slug": "bags"
+    },
+    {
+        "name": "Pouch",
+        "slug": "pouch"
+    },
+    {
+        "name": "Card holder",
+        "slug": "cardholder"
+    },
+    {
+        "name": "Key ring",
+        "slug": "keyholder"
+    },
+    {
+        "name": "Badge",
+        "slug": "badge"
+    },
+    {
+        "name": "Charm",
+        "slug": "charm"
+    },
+    {
+        "name": "Hair accessories/Mirror",
+        "slug": "hair"
+    },
+    {
+        "name": "Accessories/Watch",
+        "slug": "accessory_watch"
+    },
+    {
+        "name": "Umbrella",
+        "slug": "umbrella"
+    },
+    {
+        "name": "Patch",
+        "slug": "patch"
+    },
+    {
+        "name": "Interior",
+        "slug": "interior"
+    },
+    {
+        "name": "Figure",
+        "slug": "figure"
+    },
+    {
+        "name": "Organizer",
+        "slug": "organizer"
+    },
+    {
+        "name": "Lighting/Humidifier",
+        "slug": "lighthumidifier"
+    },
+    {
+        "name": "Bedding/Cushion",
+        "slug": "bedding"
+    },
+    {
+        "name": "Wall interior",
+        "slug": "wallinterior"
+    },
+    {
+        "name": "Pets",
+        "slug": "pets"
+    },
+    {
+        "name": "Acrylic stand",
+        "slug": "acrylstand"
+    },
+    {
+        "name": "Apparel",
+        "slug": "apparel"
+    },
+    {
+        "name": "T-shirts/Hoodie",
+        "slug": "casualtops"
+    },
+    {
+        "name": "Hat",
+        "slug": "hat"
+    },
+    {
+        "name": "Glove/Scarve",
+        "slug": "fashionaccessories"
+    },
+    {
+        "name": "Socks",
+        "slug": "socks"
+    },
+    {
+        "name": "Room shoes",
+        "slug": "roomshoes"
+    },
+    {
+        "name": "Costume",
+        "slug": "costume"
+    },
+    {
+        "name": "Stationery",
+        "slug": "stationery"
+    },
+    {
+        "name": "Writing materials",
+        "slug": "writing_materials"
+    },
+    {
+        "name": "Memo",
+        "slug": "memo"
+    },
+    {
+        "name": "Sticker",
+        "slug": "stickers_tapes"
+    },
+    {
+        "name": "Pencase",
+        "slug": "pencase"
+    },
+    {
+        "name": "Folder",
+        "slug": "folder"
+    },
+    {
+        "name": "Magnet",
+        "slug": "magnet"
+    },
+    {
+        "name": "Calender/Note",
+        "slug": "notes"
+    },
+    {
+        "name": "Towel",
+        "slug": "towel"
+    },
+    {
+        "name": "Bath towel",
+        "slug": "bathtowel"
+    },
+    {
+        "name": "Face towel",
+        "slug": "facetowel"
+    },
+    {
+        "name": "Hand towel",
+        "slug": "handtowel"
+    },
+    {
+        "name": "Kitchen goods",
+        "slug": "kitchen"
+    },
+    {
+        "name": "Cups",
+        "slug": "cups"
+    },
+    {
+        "name": "Tumbler/Water bottle",
+        "slug": "tumbler"
+    },
+    {
+        "name": "Tableware",
+        "slug": "tableware"
+    },
+    {
+        "name": "Cutlery",
+        "slug": "cutlery"
+    },
+    {
+        "name": "Utensils",
+        "slug": "utensils"
+    },
+    {
+        "name": "Lunch box",
+        "slug": "lunchbox"
+    },
+    {
+        "name": "Apron",
+        "slug": "apron"
+    },
+    {
+        "name": "Dish cloth/Mat",
+        "slug": "dishtowel"
+    },
+    {
+        "name": "PC/Smartphone goods",
+        "slug": "spgoods"
+    },
+    {
+        "name": "Smartphone case",
+        "slug": "spcase"
+    },
+    {
+        "name": "Smartphone ring",
+        "slug": "spring"
+    },
+    {
+        "name": "Charging accessories",
+        "slug": "chargecables"
+    },
+    {
+        "name": "Mouse pad",
+        "slug": "mousepad"
+    },
+    {
+        "name": "Amenity",
+        "slug": "amenity"
+    },
+    {
+        "name": "Bathroom",
+        "slug": "bathroom"
+    },
+    {
+        "name": "Cosmetics",
+        "slug": "cosmetic"
+    },
+    {
+        "name": "Mask/Hygiene",
+        "slug": "hygiene"
+    },
+    {
+        "name": "Outdoor",
+        "slug": "outdoor"
+    },
+    {
+        "name": "Picnic goods",
+        "slug": "picnic"
+    },
+    {
+        "name": "Car goods",
+        "slug": "car"
+    },
+    {
+        "name": "Toy/Puzzle",
+        "slug": "plaything"
+    },
+    {
+        "name": "Toy",
+        "slug": "toys"
+    },
+    {
+        "name": "Puzzle",
+        "slug": "puzzle"
+    },
+    {
+        "name": "Kit",
+        "slug": "kit"
+    },
+    {
+        "name": "Food",
+        "slug": "foods"
+    }
+]

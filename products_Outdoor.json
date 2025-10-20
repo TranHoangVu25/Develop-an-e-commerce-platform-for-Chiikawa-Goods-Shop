@@ -25,10 +25,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "多摩電子工業"
@@ -59,10 +55,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "多摩電子工業"
@@ -93,10 +85,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "多摩電子工業"
@@ -252,20 +240,16 @@
       {
         "name": "Outdoor",
         "slug": "outdoor"
+      },
+      {
+        "name": "Interior",
+        "slug": "interior"
       }
     ],
     "characters": [
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Chiikawa Shisa Matsuri! ! ! &amp; Shisa's Souvenir Shop",
-        "slug": "chiikawa-shisa-matsuri!-!-!-&amp;-shisa's-souvenir-shop"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -287,20 +271,16 @@
       {
         "name": "Outdoor",
         "slug": "outdoor"
+      },
+      {
+        "name": "Interior",
+        "slug": "interior"
       }
     ],
     "characters": [
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Chiikawa Shisa Matsuri! ! ! &amp; Shisa's Souvenir Shop",
-        "slug": "chiikawa-shisa-matsuri!-!-!-&amp;-shisa's-souvenir-shop"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -551,6 +531,10 @@
       {
         "name": "Outdoor",
         "slug": "outdoor"
+      },
+      {
+        "name": "Interior",
+        "slug": "interior"
       }
     ],
     "characters": [
@@ -573,10 +557,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -599,6 +579,10 @@
       {
         "name": "Outdoor",
         "slug": "outdoor"
+      },
+      {
+        "name": "Interior",
+        "slug": "interior"
       }
     ],
     "characters": [
@@ -621,10 +605,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -644,16 +624,16 @@
       {
         "name": "Outdoor",
         "slug": "outdoor"
+      },
+      {
+        "name": "Interior",
+        "slug": "interior"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -673,16 +653,16 @@
       {
         "name": "Outdoor",
         "slug": "outdoor"
+      },
+      {
+        "name": "Interior",
+        "slug": "interior"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -702,16 +682,16 @@
       {
         "name": "Outdoor",
         "slug": "outdoor"
+      },
+      {
+        "name": "Interior",
+        "slug": "interior"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -731,16 +711,16 @@
       {
         "name": "Outdoor",
         "slug": "outdoor"
+      },
+      {
+        "name": "Interior",
+        "slug": "interior"
       }
     ],
     "characters": [
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -761,20 +741,16 @@
       {
         "name": "Outdoor",
         "slug": "outdoor"
+      },
+      {
+        "name": "Interior",
+        "slug": "interior"
       }
     ],
     "characters": [
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Chiikawa Shisa Matsuri! ! ! &amp; Shisa's Souvenir Shop",
-        "slug": "chiikawa-shisa-matsuri!-!-!-&amp;-shisa's-souvenir-shop"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -796,6 +772,10 @@
       {
         "name": "Outdoor",
         "slug": "outdoor"
+      },
+      {
+        "name": "Interior",
+        "slug": "interior"
       }
     ],
     "characters": [
@@ -814,14 +794,6 @@
       {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -844,6 +816,10 @@
       {
         "name": "Outdoor",
         "slug": "outdoor"
+      },
+      {
+        "name": "Interior",
+        "slug": "interior"
       }
     ],
     "characters": [
@@ -862,14 +838,6 @@
       {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1525,10 +1493,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Chiikawa Tokyo Souvenir",
-        "slug": "chiikawa-tokyo-souvenir"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1584,10 +1548,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Chiikawa Tokyo Souvenir",
-        "slug": "chiikawa-tokyo-souvenir"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1612,6 +1572,10 @@
       {
         "name": "Outdoor",
         "slug": "outdoor"
+      },
+      {
+        "name": "Interior",
+        "slug": "interior"
       }
     ],
     "characters": [
@@ -1646,14 +1610,6 @@
       {
         "name": "Anoko",
         "slug": "anoko"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Chiikawa Excited to Go Out!",
-        "slug": "chiikawa-excited-to-go-out!"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1678,6 +1634,10 @@
       {
         "name": "Outdoor",
         "slug": "outdoor"
+      },
+      {
+        "name": "Interior",
+        "slug": "interior"
       }
     ],
     "characters": [
@@ -1708,14 +1668,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Chiikawa Excited to Go Out!",
-        "slug": "chiikawa-excited-to-go-out!"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1735,6 +1687,10 @@
       {
         "name": "Outdoor",
         "slug": "outdoor"
+      },
+      {
+        "name": "Interior",
+        "slug": "interior"
       }
     ],
     "characters": [
@@ -1765,14 +1721,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Chiikawa Excited to Go Out!",
-        "slug": "chiikawa-excited-to-go-out!"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1792,6 +1740,10 @@
       {
         "name": "Outdoor",
         "slug": "outdoor"
+      },
+      {
+        "name": "Interior",
+        "slug": "interior"
       }
     ],
     "characters": [
@@ -1806,14 +1758,6 @@
       {
         "name": "Anoko",
         "slug": "anoko"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Chiikawa Tenshi♡Akuma",
-        "slug": "chiikawa-tenshi♡akuma"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -1833,6 +1777,10 @@
       {
         "name": "Outdoor",
         "slug": "outdoor"
+      },
+      {
+        "name": "Interior",
+        "slug": "interior"
       }
     ],
     "characters": [
@@ -1851,123 +1799,9 @@
       {
         "name": "Ode",
         "slug": "ode"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Chiikawa Tenshi♡Akuma",
-        "slug": "chiikawa-tenshi♡akuma"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
-  },
-  {
-    "id": "4901367048758",
-    "variants": [
-      {
-        "id": "4901367048758",
-        "name": "S",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4901367048758.jpg"
-      },
-      {
-        "id": "4901367048765",
-        "name": "L",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4901367048765.jpg"
-      }
-    ],
-    "price": 1650,
-    "name": "Chiikawa Soft Leisure Sheet S",
-    "description": "Fluffy and thick, making it hard for your butt to hurt!\nComes with a handle Bag that can be folded.\nSuitable for 2 to 3 people in size.\n\nSize (approx.): 900×1800mm\nWeight (approx.): 176g\nMaterial: Main body: polypropylene, foamed polyethylene, aluminized film\nHandle bag: EVA resin\nManufacturing location: China",
-    "status": "available",
-    "images": [],
-    "categories": [
-      {
-        "name": "Outdoor",
-        "slug": "outdoor"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Momonga",
-        "slug": "momonga"
-      },
-      {
-        "name": "Kurimanju",
-        "slug": "kurimanju"
-      },
-      {
-        "name": "Shisa",
-        "slug": "shisa"
-      }
-    ],
-    "vendor": "バンダイ（ライフ）"
-  },
-  {
-    "id": "4901367048765",
-    "variants": [
-      {
-        "id": "4901367048758",
-        "name": "S",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4901367048758.jpg"
-      },
-      {
-        "id": "4901367048765",
-        "name": "L",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4901367048765.jpg"
-      }
-    ],
-    "price": 2420,
-    "name": "Chiikawa Soft Leisure Sheet L",
-    "description": "Fluffy and thick, making it hard for your bottom to hurt!\nComes with a convenient handle Bag.\nLarge enough size for 4 to 5 people to use.\n\nSize (approx.): 1800×1800mm\nWeight (approx.): 305g\nMaterial: Main body: Polypropylene, Foam polyethylene, Aluminum vapor deposition film\nHandle bag: EVA resin\nManufactured in: China",
-    "status": "available",
-    "images": [],
-    "categories": [
-      {
-        "name": "Outdoor",
-        "slug": "outdoor"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Momonga",
-        "slug": "momonga"
-      },
-      {
-        "name": "Kurimanju",
-        "slug": "kurimanju"
-      },
-      {
-        "name": "Shisa",
-        "slug": "shisa"
-      }
-    ],
-    "vendor": "バンダイ（ライフ）"
   },
   {
     "id": "4901367050508",
@@ -1995,53 +1829,12 @@
       {
         "name": "Outdoor",
         "slug": "outdoor"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
       },
       {
         "name": "Interior",
         "slug": "interior"
       }
     ],
-    "vendor": "バンダイ（ライフ）"
-  },
-  {
-    "id": "4901367050515",
-    "variants": [
-      {
-        "id": "4901367050508",
-        "name": "S",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/490136705050_1.jpg"
-      },
-      {
-        "id": "4901367050515",
-        "name": "L",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4901367050515_1.jpg"
-      }
-    ],
-    "price": 1980,
-    "name": "Chiikawa Leisure Sheet L",
-    "description": "A recommended leisure sheet for the picnic season is newly on sale!\n*Suitable for 2 to 3 people.\n\nSize (approx.): H900×W1800mm\nMaterial: Polyethylene, Polypropylene\nManufacturing location: China",
-    "status": "available",
-    "images": [],
-    "categories": [
-      {
-        "name": "Outdoor",
-        "slug": "outdoor"
-      }
-    ],
     "characters": [
       {
         "name": "Chiikawa",
@@ -2054,38 +1847,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Momonga",
-        "slug": "momonga"
-      },
-      {
-        "name": "Kurimanju",
-        "slug": "kurimanju"
-      },
-      {
-        "name": "Rakko",
-        "slug": "rakko"
-      },
-      {
-        "name": "Shisa",
-        "slug": "shisa"
-      },
-      {
-        "name": "Furuhonya",
-        "slug": "furuhonya"
-      },
-      {
-        "name": "Anoko",
-        "slug": "anoko"
-      },
-      {
-        "name": "Dekatsuyo",
-        "slug": "dekatsuyo"
-      },
-      {
-        "name": "Yoroi-san",
-        "slug": "yoroi-san"
       }
     ],
     "vendor": "バンダイ（ライフ）"

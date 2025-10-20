@@ -20,6 +20,10 @@
       {
         "name": "Backpack",
         "slug": "backpack"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
@@ -38,14 +42,6 @@
       {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "ギャレット"
@@ -71,6 +67,10 @@
       {
         "name": "Backpack",
         "slug": "backpack"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
@@ -89,14 +89,6 @@
       {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "ギャレット"
@@ -122,6 +114,10 @@
       {
         "name": "Backpack",
         "slug": "backpack"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
@@ -140,14 +136,6 @@
       {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "ギャレット"
@@ -196,20 +184,16 @@
       {
         "name": "Backpack",
         "slug": "backpack"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -232,20 +216,16 @@
       {
         "name": "Backpack",
         "slug": "backpack"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -268,20 +248,16 @@
       {
         "name": "Backpack",
         "slug": "backpack"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -307,24 +283,16 @@
       {
         "name": "Backpack",
         "slug": "backpack"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -381,6 +349,14 @@
       {
         "name": "Backpack",
         "slug": "backpack"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
@@ -399,14 +375,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "サンスター文具"

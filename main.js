@@ -3,8 +3,11 @@ import axios from "axios";
 import fs from "fs";
 import { JSDOM } from "jsdom";
 
+import path from 'path';
+import { fileURLToPath } from 'url';
+
 // Đọc file chứa danh sách link (mỗi link 1 dòng)
-const content = fs.readFileSync("product_links_PlushMascot.csv", "utf8");
+const content = fs.readFileSync("product_links_ToysPuzzles.csv", "utf8");
 const lines = content.split("\n");
 
 // Hàm tải HTML
@@ -43,8 +46,6 @@ for (let i = 0; i < 201; i++) {
   const imageListHtml = document.querySelector("ul.thumbnail-list")?.querySelectorAll("li") || [];
   const categoryListHtml = document.querySelector("ul.tag_list")?.querySelectorAll("li") || [];
   const images = [];
-  const characters = [];
-
   for (let j = 0; j < imageListHtml.length; j++) {
     const img = imageListHtml[j].querySelector("img");
     if (img && img.src) {
@@ -52,13 +53,29 @@ for (let i = 0; i < 201; i++) {
       images.push(src.startsWith("http") ? src : "https:" + src);
     }
   }
+  if (images.length === 0) {
+    console.log(`Bỏ qua sản phẩm ${i + 1} vì không có ảnh.`);
+    continue;
+  }
 
-  for (let j = 0; j < categoryListHtml.length; j++) {
-  const a = categoryListHtml[j].querySelector("a");
-  if (a) {
-    const name = a.innerHTML.trim();
-    const slug = name.toLowerCase().replace(/\s+/g, "-"); // tạo slug đơn giản
-    characters.push({ name, slug });
+  const __filename = fileURLToPath(import.meta.url);
+  const __dirname = path.dirname(__filename);
+
+  const charList = JSON.parse(fs.readFileSync(path.join(__dirname, 'character_slug.json')));
+  const catList = JSON.parse(fs.readFileSync(path.join(__dirname, 'category_slug.json')));
+  const toSlug = s => s.toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g, '').replace(/[^\w\s-]/g, '').trim().replace(/\s+/g, '-');
+  const charMap = new Map(charList.map(c => [c.slug, c]));
+  const catMap = new Map(catList.map(c => [c.slug, c]));
+
+  const characters = [], categories = [{ name: 'Toy/Puzzle', slug: 'plaything' }];
+
+  for (const el of categoryListHtml) {
+    const a = el.querySelector('a'); if (!a) continue;
+    const name = a.textContent.trim(), slug = toSlug(name);
+    if (charMap.has(slug)) {
+      characters.push({ name, slug });              // chỉ name + slug
+    } else if (catMap.has(slug) && !categories.some(c => c.slug === slug)) {
+      categories.push({ name, slug });              // chỉ name + slug
     }
   }
 
@@ -103,12 +120,7 @@ for (let i = 0; i < 201; i++) {
     description,
     status,
     images,
-    categories: [
-      {
-        "name": "Plush/Mascot",
-        "slug": "nuigurumi-mascot"
-      }
-    ],
+    categories,
     characters,
     vendor,
   };

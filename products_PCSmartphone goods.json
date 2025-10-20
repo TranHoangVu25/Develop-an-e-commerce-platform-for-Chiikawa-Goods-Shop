@@ -25,12 +25,7 @@
         "slug": "spgoods"
       }
     ],
-    "characters": [
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
-      }
-    ],
+    "characters": [],
     "vendor": "多摩電子工業"
   },
   {
@@ -59,12 +54,7 @@
         "slug": "spgoods"
       }
     ],
-    "characters": [
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
-      }
-    ],
+    "characters": [],
     "vendor": "多摩電子工業"
   },
   {
@@ -93,12 +83,7 @@
         "slug": "spgoods"
       }
     ],
-    "characters": [
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
-      }
-    ],
+    "characters": [],
     "vendor": "多摩電子工業"
   },
   {
@@ -127,12 +112,7 @@
         "slug": "spgoods"
       }
     ],
-    "characters": [
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
-      }
-    ],
+    "characters": [],
     "vendor": "多摩電子工業"
   },
   {
@@ -161,12 +141,7 @@
         "slug": "spgoods"
       }
     ],
-    "characters": [
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
-      }
-    ],
+    "characters": [],
     "vendor": "多摩電子工業"
   },
   {
@@ -195,12 +170,7 @@
         "slug": "spgoods"
       }
     ],
-    "characters": [
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
-      }
-    ],
+    "characters": [],
     "vendor": "多摩電子工業"
   },
   {
@@ -231,10 +201,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "多摩電子工業"
@@ -267,10 +233,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "多摩電子工業"
@@ -303,10 +265,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "多摩電子工業"
@@ -347,10 +305,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "多摩電子工業"
@@ -379,10 +333,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "多摩電子工業"
@@ -411,10 +361,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "多摩電子工業"
@@ -443,10 +389,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "多摩電子工業"
@@ -475,10 +417,6 @@
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "多摩電子工業"
@@ -507,10 +445,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "多摩電子工業"
@@ -539,10 +473,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "多摩電子工業"
@@ -573,10 +503,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "多摩電子工業"
@@ -607,10 +533,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "多摩電子工業"
@@ -641,10 +563,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "多摩電子工業"
@@ -675,10 +593,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "多摩電子工業"
@@ -709,10 +623,6 @@
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "多摩電子工業"
@@ -743,10 +653,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "多摩電子工業"
@@ -777,10 +683,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "多摩電子工業"
@@ -811,10 +713,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "多摩電子工業"
@@ -845,10 +743,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "多摩電子工業"
@@ -890,10 +784,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "Hamee"
@@ -929,10 +819,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "Hamee"
@@ -968,10 +854,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "Hamee"
@@ -1007,10 +889,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "Hamee"
@@ -1054,10 +932,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "Hamee"
@@ -1084,10 +958,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "Hamee"
@@ -1114,10 +984,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "Hamee"
@@ -1144,10 +1010,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "Hamee"
@@ -1182,10 +1044,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "Hamee"
@@ -1211,10 +1069,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "Hamee"
@@ -1240,10 +1094,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "Hamee"
@@ -1269,10 +1119,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "Hamee"
@@ -1307,10 +1153,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "Hamee"
@@ -1341,10 +1183,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "Hamee"
@@ -1375,10 +1213,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "Hamee"
@@ -1441,10 +1275,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "Hamee"
@@ -1507,10 +1337,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "Hamee"
@@ -1573,10 +1399,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "Hamee"
@@ -1639,10 +1461,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "Hamee"
@@ -1705,10 +1523,6 @@
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "Hamee"
@@ -1771,10 +1585,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "Hamee"
@@ -1837,10 +1647,6 @@
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "Hamee"
@@ -1868,10 +1674,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -1899,10 +1701,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -1930,10 +1728,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -1963,10 +1757,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -2000,10 +1790,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -2098,10 +1884,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -2196,10 +1978,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -2294,10 +2072,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -2331,10 +2105,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -2368,10 +2138,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -2445,10 +2211,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -2522,10 +2284,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -2599,10 +2357,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -2675,10 +2429,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -2751,10 +2501,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -2827,10 +2573,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -2859,10 +2601,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -2891,10 +2629,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -2923,10 +2657,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -2954,10 +2684,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -2985,10 +2711,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3016,10 +2738,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3069,10 +2787,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3106,10 +2820,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3143,10 +2853,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3181,10 +2887,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3219,10 +2921,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3252,10 +2950,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3289,10 +2983,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3326,10 +3016,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3359,10 +3045,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3396,10 +3078,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3433,10 +3111,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3466,10 +3140,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3503,10 +3173,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3540,10 +3206,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3564,24 +3226,16 @@
       {
         "name": "PC/Smartphone goods",
         "slug": "spgoods"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Card holder",
-        "slug": "card-holder"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3602,24 +3256,16 @@
       {
         "name": "PC/Smartphone goods",
         "slug": "spgoods"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Card holder",
-        "slug": "card-holder"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3640,24 +3286,16 @@
       {
         "name": "PC/Smartphone goods",
         "slug": "spgoods"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Card holder",
-        "slug": "card-holder"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3678,12 +3316,6 @@
       {
         "name": "PC/Smartphone goods",
         "slug": "spgoods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
       },
       {
         "name": "Goods",
@@ -3692,10 +3324,12 @@
       {
         "name": "Pouch",
         "slug": "pouch"
-      },
+      }
+    ],
+    "characters": [
       {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
+        "name": "Chiikawa",
+        "slug": "chiikawa"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3716,12 +3350,6 @@
       {
         "name": "PC/Smartphone goods",
         "slug": "spgoods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
       },
       {
         "name": "Goods",
@@ -3730,10 +3358,12 @@
       {
         "name": "Pouch",
         "slug": "pouch"
-      },
+      }
+    ],
+    "characters": [
       {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
+        "name": "Hachiware",
+        "slug": "hachiware"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3754,12 +3384,6 @@
       {
         "name": "PC/Smartphone goods",
         "slug": "spgoods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Usagi",
-        "slug": "usagi"
       },
       {
         "name": "Goods",
@@ -3768,10 +3392,12 @@
       {
         "name": "Pouch",
         "slug": "pouch"
-      },
+      }
+    ],
+    "characters": [
       {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
+        "name": "Usagi",
+        "slug": "usagi"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3812,10 +3438,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3856,10 +3478,6 @@
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3904,10 +3522,6 @@
       {
         "name": "Goblin",
         "slug": "goblin"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3941,10 +3555,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -3978,10 +3588,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -4015,10 +3621,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -4115,10 +3717,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -4215,10 +3813,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -4315,10 +3909,6 @@
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -4415,10 +4005,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -4515,10 +4101,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -4549,10 +4131,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -4583,10 +4161,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -4617,10 +4191,6 @@
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -4651,10 +4221,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -4685,10 +4251,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -4717,10 +4279,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -4749,10 +4307,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -4781,10 +4335,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -4815,10 +4365,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -4873,10 +4419,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -4911,10 +4453,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -4949,10 +4487,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -4974,24 +4508,16 @@
       {
         "name": "PC/Smartphone goods",
         "slug": "spgoods"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Card holder",
-        "slug": "card-holder"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -5013,24 +4539,16 @@
       {
         "name": "PC/Smartphone goods",
         "slug": "spgoods"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Card holder",
-        "slug": "card-holder"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -5052,24 +4570,16 @@
       {
         "name": "PC/Smartphone goods",
         "slug": "spgoods"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Card holder",
-        "slug": "card-holder"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -5141,10 +4651,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -5216,10 +4722,6 @@
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -5291,10 +4793,6 @@
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -5366,10 +4864,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -5441,10 +4935,6 @@
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -5516,10 +5006,6 @@
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -5546,10 +5032,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -5576,10 +5058,6 @@
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -5606,10 +5084,6 @@
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -5646,10 +5120,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -5704,10 +5174,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -5762,10 +5228,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -5820,10 +5282,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -5850,10 +5308,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -5880,10 +5334,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -5910,10 +5360,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -5940,10 +5386,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -5997,10 +5439,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6029,10 +5467,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6061,10 +5495,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6093,10 +5523,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6125,10 +5551,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6154,10 +5576,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6185,10 +5603,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6216,10 +5630,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6247,10 +5657,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6278,10 +5684,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6309,10 +5711,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6340,10 +5738,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6376,10 +5770,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6412,10 +5802,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6448,10 +5834,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6484,10 +5866,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6537,10 +5915,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6574,10 +5948,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6605,10 +5975,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6636,10 +6002,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6667,10 +6029,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6717,10 +6075,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6767,10 +6121,6 @@
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6817,10 +6167,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6848,10 +6194,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6879,10 +6221,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6910,10 +6248,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6941,10 +6275,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -6978,10 +6308,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -7019,10 +6345,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -7057,10 +6379,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -7095,10 +6413,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -7171,10 +6485,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -7247,10 +6557,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -7323,10 +6629,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -7399,10 +6701,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -7475,10 +6773,6 @@
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -7551,10 +6845,6 @@
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -7627,10 +6917,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -7703,10 +6989,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -7779,10 +7061,6 @@
       {
         "name": "Anoko",
         "slug": "anoko"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -7835,10 +7113,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -7891,10 +7165,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -7947,10 +7217,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8003,10 +7269,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8059,10 +7321,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8135,10 +7393,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8211,10 +7465,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8287,10 +7537,6 @@
       {
         "name": "Anoko",
         "slug": "anoko"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8363,10 +7609,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8439,10 +7681,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8515,10 +7753,6 @@
       {
         "name": "Anoko",
         "slug": "anoko"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8611,10 +7845,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8707,10 +7937,6 @@
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8803,10 +8029,6 @@
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8899,10 +8121,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8995,10 +8213,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -9025,10 +8239,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -9055,10 +8265,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -9085,10 +8291,6 @@
       {
         "name": "Anoko",
         "slug": "anoko"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -9131,10 +8333,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -9177,10 +8375,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -9223,10 +8417,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -9280,10 +8470,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -9337,10 +8523,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -9394,10 +8576,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -9451,10 +8629,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -9508,10 +8682,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"

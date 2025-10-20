@@ -53,14 +53,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "バンダイ（ファッション）"
@@ -119,14 +111,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "バンダイ（ファッション）"
@@ -185,14 +169,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "バンダイ（ファッション）"
@@ -251,14 +227,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "バンダイ（ファッション）"
@@ -307,6 +275,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
@@ -325,14 +297,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "バンダイ（ファッション）"
@@ -381,6 +345,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
@@ -399,14 +367,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "バンダイ（ファッション）"
@@ -455,6 +415,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
@@ -473,14 +437,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "バンダイ（ファッション）"
@@ -534,20 +490,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "バンダイ（ファッション）"
@@ -601,20 +553,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "バンダイ（ファッション）"
@@ -668,20 +616,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "バンダイ（ファッション）"
@@ -735,20 +679,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "バンダイ（ファッション）"
@@ -805,20 +745,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Patch",
+        "slug": "patch"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Patch",
-        "slug": "patch"
       }
     ],
     "vendor": "コッカ"
@@ -875,20 +811,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Patch",
+        "slug": "patch"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Patch",
-        "slug": "patch"
       }
     ],
     "vendor": "コッカ"
@@ -945,20 +877,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Patch",
+        "slug": "patch"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Patch",
-        "slug": "patch"
       }
     ],
     "vendor": "コッカ"
@@ -1015,20 +943,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Patch",
+        "slug": "patch"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Patch",
-        "slug": "patch"
       }
     ],
     "vendor": "コッカ"
@@ -1070,7 +994,7 @@
     "price": 770,
     "name": "Chiikawa ShishuuPatch Small (Hachiware・Hiyoko) ",
     "description": "This is a dual-purpose iron-on and seal type.Iron-on is recommended for fabric products, but it can also be used as a seal for Stationery and Smartphone case.\nSize (approx.): (Package) H90×W55mmWeight (approx.): 1gMaterial:　Front: Polyester Rayon　Back: Nylon-based Tree FatManufacturing location: Taiwan",
-    "status": "available",
+    "status": "sold_out",
     "images": [
       "https://chiikawamarket.jp/cdn/shop/files/4512029298222_1.jpg",
       "https://chiikawamarket.jp/cdn/shop/files/image_1_d6f68c1b-0446-43fc-989a-3476780f583f.jpg",
@@ -1085,20 +1009,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Patch",
+        "slug": "patch"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Patch",
-        "slug": "patch"
       }
     ],
     "vendor": "コッカ"
@@ -1155,20 +1075,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Patch",
+        "slug": "patch"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Patch",
-        "slug": "patch"
       }
     ],
     "vendor": "コッカ"
@@ -1209,6 +1125,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Patch",
+        "slug": "patch"
       }
     ],
     "characters": [
@@ -1223,14 +1143,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Patch",
-        "slug": "patch"
       }
     ],
     "vendor": "コッカ"
@@ -1271,6 +1183,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Patch",
+        "slug": "patch"
       }
     ],
     "characters": [
@@ -1285,14 +1201,6 @@
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Patch",
-        "slug": "patch"
       }
     ],
     "vendor": "コッカ"
@@ -1333,6 +1241,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Patch",
+        "slug": "patch"
       }
     ],
     "characters": [
@@ -1343,14 +1255,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Patch",
-        "slug": "patch"
       }
     ],
     "vendor": "コッカ"
@@ -1394,10 +1298,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
       }
     ],
     "vendor": "ダイシン"
@@ -1441,10 +1341,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
       }
     ],
     "vendor": "ダイシン"
@@ -1488,10 +1384,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
       }
     ],
     "vendor": "ダイシン"
@@ -1512,6 +1404,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Umbrella",
+        "slug": "umbrella"
       }
     ],
     "characters": [
@@ -1526,14 +1422,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Umbrella",
-        "slug": "umbrella"
       }
     ],
     "vendor": "ワールドパーティー"
@@ -1554,6 +1442,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Umbrella",
+        "slug": "umbrella"
       }
     ],
     "characters": [
@@ -1568,14 +1460,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Umbrella",
-        "slug": "umbrella"
       }
     ],
     "vendor": "ワールドパーティー"
@@ -1599,6 +1483,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Umbrella",
+        "slug": "umbrella"
       }
     ],
     "characters": [
@@ -1613,14 +1501,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Umbrella",
-        "slug": "umbrella"
       }
     ],
     "vendor": "ワールドパーティー"
@@ -1644,6 +1524,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Umbrella",
+        "slug": "umbrella"
       }
     ],
     "characters": [
@@ -1662,14 +1546,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Umbrella",
-        "slug": "umbrella"
       }
     ],
     "vendor": "ワールドパーティー"
@@ -1701,6 +1577,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Umbrella",
+        "slug": "umbrella"
       }
     ],
     "characters": [
@@ -1723,14 +1603,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Umbrella",
-        "slug": "umbrella"
       }
     ],
     "vendor": "ワールドパーティー"
@@ -1762,6 +1634,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Umbrella",
+        "slug": "umbrella"
       }
     ],
     "characters": [
@@ -1784,14 +1660,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Umbrella",
-        "slug": "umbrella"
       }
     ],
     "vendor": "ワールドパーティー"
@@ -1813,20 +1681,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Umbrella",
+        "slug": "umbrella"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Umbrella",
-        "slug": "umbrella"
       }
     ],
     "vendor": "ワールドパーティー"
@@ -1849,6 +1713,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Umbrella",
+        "slug": "umbrella"
       }
     ],
     "characters": [
@@ -1863,14 +1731,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Umbrella",
-        "slug": "umbrella"
       }
     ],
     "vendor": "ワールドパーティー"
@@ -1894,6 +1754,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Umbrella",
+        "slug": "umbrella"
       }
     ],
     "characters": [
@@ -1912,14 +1776,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Umbrella",
-        "slug": "umbrella"
       }
     ],
     "vendor": "ワールドパーティー"
@@ -1941,6 +1797,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Umbrella",
+        "slug": "umbrella"
       }
     ],
     "characters": [
@@ -1963,14 +1823,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Umbrella",
-        "slug": "umbrella"
       }
     ],
     "vendor": "ワールドパーティー"
@@ -1994,6 +1846,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
@@ -2008,14 +1864,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -2039,6 +1887,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
@@ -2053,14 +1905,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -2083,6 +1927,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
@@ -2093,14 +1941,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -2123,6 +1963,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
@@ -2145,14 +1989,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -2175,6 +2011,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
@@ -2189,14 +2029,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -2207,7 +2039,7 @@
     "price": 3960,
     "name": "Chiikawa Badge Coin Purse (Chiikawa)",
     "description": "From \"Chiikawa\", a stylish and cute wallet with a badge is now available♪\nWith a high-quality corner shibo fabric + stylish bi-color, it can be loved by everyone from children to adults regardless of age!\nThe inside features a friendly trion print fabric for added cuteness♪\nIt is a compact and easy-to-carry wallet with a clasp.\n\nSize: Approx. H80×W105×D25mm\nFeatures: 3 pockets, 4 card slots\nWeight: Approx. 142g\nMaterial: Synthetic leather\nManufactured in: China",
-    "status": "sold_out",
+    "status": "available",
     "images": [
       "https://chiikawamarket.jp/cdn/shop/files/4547274044034_01.jpg",
       "https://chiikawamarket.jp/cdn/shop/files/4547274044034_02.jpg",
@@ -2221,20 +2053,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -2259,20 +2087,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -2297,20 +2121,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -2335,20 +2155,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -2373,20 +2189,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -2411,20 +2223,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -2466,20 +2274,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -2521,20 +2325,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -2576,20 +2376,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -2633,6 +2429,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
@@ -2647,14 +2447,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -2698,6 +2490,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
@@ -2712,14 +2508,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -2763,6 +2551,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
@@ -2777,14 +2569,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -2823,20 +2607,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -2875,20 +2655,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -2927,20 +2703,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -2981,20 +2753,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -3035,20 +2803,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -3089,20 +2853,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "アルディ"
@@ -3124,471 +2884,10 @@
       {
         "name": "Goods",
         "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Momonga",
-        "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
       },
       {
         "name": "Pouch",
         "slug": "pouch"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387018400",
-    "variants": [
-      {
-        "id": "4548387018400",
-        "name": "Chiikawa",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018400.jpg"
-      },
-      {
-        "id": "4548387018417",
-        "name": "Hachiware",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018417.jpg"
-      },
-      {
-        "id": "4548387018424",
-        "name": "Usagi",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018424.jpg"
-      },
-      {
-        "id": "4548387018431",
-        "name": "Momonga",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018431.jpg"
-      }
-    ],
-    "price": 550,
-    "name": "Chiikawa Heart Hair Pony 2P (Chiikawa)",
-    "description": "The hair pony that hides the gom part with Chiikawa parts even when tying hair without styling can be worn on the wrist when not in use for a pop accessory.\n\nSize (approx.): H20×W25mm eachWeight (approx.): 20g eachMaterial: Parts: Acrylate resin, AS resin Gom: Natural gom, nylonManufacturing location: Japan",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387018417",
-    "variants": [
-      {
-        "id": "4548387018400",
-        "name": "Chiikawa",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018400.jpg"
-      },
-      {
-        "id": "4548387018417",
-        "name": "Hachiware",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018417.jpg"
-      },
-      {
-        "id": "4548387018424",
-        "name": "Usagi",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018424.jpg"
-      },
-      {
-        "id": "4548387018431",
-        "name": "Momonga",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018431.jpg"
-      }
-    ],
-    "price": 550,
-    "name": "Chiikawa Heart Hair Pony 2P (Hachiware)",
-    "description": "The hair pony that hides the gum part of Chiikawa even when tying hair without styling is a pop accessory when worn on the wrist when not in use ♪\n\nSize (approx.): Each H20×W25mmWeight (approx.): Each 20gMaterial:　Parts: Acrylic resin, AS resin　Gum: Natural rubber, nylonManufacturing location: Japan",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387018424",
-    "variants": [
-      {
-        "id": "4548387018400",
-        "name": "Chiikawa",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018400.jpg"
-      },
-      {
-        "id": "4548387018417",
-        "name": "Hachiware",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018417.jpg"
-      },
-      {
-        "id": "4548387018424",
-        "name": "Usagi",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018424.jpg"
-      },
-      {
-        "id": "4548387018431",
-        "name": "Momonga",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018431.jpg"
-      }
-    ],
-    "price": 550,
-    "name": "Chiikawa Heart Hair Pony 2P (Usagi)",
-    "description": "The hair pony that hides the gummed parts of Chiikawa even when you tie your hair without styling, can be worn on your wrist when not in use for a pop accessory♪\n\nSize (approx.): Each H20×W25mmWeight (approx.): Each 20gMaterial:  Parts: Acrylic resin, AS resin  Gum: Natural rubber, nylonManufacturing location: Japan",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387018431",
-    "variants": [
-      {
-        "id": "4548387018400",
-        "name": "Chiikawa",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018400.jpg"
-      },
-      {
-        "id": "4548387018417",
-        "name": "Hachiware",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018417.jpg"
-      },
-      {
-        "id": "4548387018424",
-        "name": "Usagi",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018424.jpg"
-      },
-      {
-        "id": "4548387018431",
-        "name": "Momonga",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018431.jpg"
-      }
-    ],
-    "price": 550,
-    "name": "Chiikawa Heart Hair Pony 2P (Momonga)",
-    "description": "The hair pony that hides the gom part with parts of Chiikawa when you tie your hair without styling is a pop accessory that you can wear on your wrist when not in use♪\n\nSize (approx.): Each H20×W25mmWeight (approx.): Each 20gMaterial:　Parts: Acrylic resin, AS resin　Gom: Natural gom, nylonManufacturing location: Japan",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Momonga",
-        "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387018448",
-    "variants": [
-      {
-        "id": "4548387018448",
-        "name": "Chiikawa",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018448.jpg"
-      },
-      {
-        "id": "4548387018455",
-        "name": "Hachiware",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018455.jpg"
-      },
-      {
-        "id": "4548387018462",
-        "name": "Usagi",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018462.jpg"
-      },
-      {
-        "id": "4548387018479",
-        "name": "Momonga",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018479.jpg"
-      }
-    ],
-    "price": 550,
-    "name": "Chiikawa Mascot Hair Pin 2P (Chiikawa)",
-    "description": "Not only is it an accent to arrange, but in those everyday moments of 'I want to keep a little fringe' during makeup or work, it's an item that heals with the smiles of Chiikawa!\n\n\nSize (approx.): Each H20×W57mm\nWeight (approx.): Each 20g\nMaterial: Acrylic tree resin, Iron\nManufacturing location: Japan",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387018455",
-    "variants": [
-      {
-        "id": "4548387018448",
-        "name": "Chiikawa",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018448.jpg"
-      },
-      {
-        "id": "4548387018455",
-        "name": "Hachiware",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018455.jpg"
-      },
-      {
-        "id": "4548387018462",
-        "name": "Usagi",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018462.jpg"
-      },
-      {
-        "id": "4548387018479",
-        "name": "Momonga",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018479.jpg"
-      }
-    ],
-    "price": 550,
-    "name": "Chiikawa Mascot Hair Pin 2P (Hachiware)",
-    "description": "Not only the accent of orange, but also in everyday moments like 'I want to leave a little front hair' during makeup or work, this item heals with the smiles of Chiikawa!\n\n\nSize (approx.): Each H20×W57mm\nWeight (approx.): Each 20g\nMaterial: Acrylic tree resin, Iron\nManufacturing location: Japan",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387018462",
-    "variants": [
-      {
-        "id": "4548387018448",
-        "name": "Chiikawa",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018448.jpg"
-      },
-      {
-        "id": "4548387018455",
-        "name": "Hachiware",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018455.jpg"
-      },
-      {
-        "id": "4548387018462",
-        "name": "Usagi",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018462.jpg"
-      },
-      {
-        "id": "4548387018479",
-        "name": "Momonga",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018479.jpg"
-      }
-    ],
-    "price": 550,
-    "name": "Chiikawa Mascot Hair Pin 2P (Usagi)",
-    "description": "Not only is it an accent for arranging, but it is also an item that heals with the smiles of Chiikawa at everyday moments like 'I want to keep a little bit of bangs' while doing makeup or work!\n\n\nSize (approx.): Each H20×W57mm\nWeight (approx.): Each 20g\nMaterial: Acrylic tree resin, Iron\nMade in: Japan",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387018479",
-    "variants": [
-      {
-        "id": "4548387018448",
-        "name": "Chiikawa",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018448.jpg"
-      },
-      {
-        "id": "4548387018455",
-        "name": "Hachiware",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018455.jpg"
-      },
-      {
-        "id": "4548387018462",
-        "name": "Usagi",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018462.jpg"
-      },
-      {
-        "id": "4548387018479",
-        "name": "Momonga",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018479.jpg"
-      }
-    ],
-    "price": 550,
-    "name": "Chiikawa Mascot Hair Pin 2P (Momonga)",
-    "description": "Not only is it an accent for arranging, but also an item that heals with the smiles of Chiikawa at those everyday moments when you think \"I want to leave a little front hair\" during makeup or work!\n\n\nSize (approx.): Each H20×W57mm\nWeight (approx.): Each 20g\nMaterial: Acryl tree fat, iron\nManufacturing location: Japan",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Momonga",
-        "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387018486",
-    "variants": [
-      {
-        "id": "4548387018486",
-        "name": "Chiikawa＆Hachiware",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018486.jpg"
-      },
-      {
-        "id": "4548387018493",
-        "name": "Usagi＆Momonga",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018493.jpg"
-      }
-    ],
-    "price": 550,
-    "name": "Chiikawa Mascot Hair Pony 2P (Chiikawa &amp; Hachiware)",
-    "description": "Even when you tie your hair in a simple style, the hair pony that hides the gom part with Chiikawa parts can be worn on your wrist when not in use, making it a pop accessory ♪\n\nSize (approx.): Each H20×W25mmWeight (approx.): Each 20gMaterial: Parts: Acryl tree resin, AS tree resin Gom: Natural gom, nylonManufacturing location: Japan",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
       }
     ],
     "characters": [
@@ -3601,57 +2900,12 @@
         "slug": "hachiware"
       },
       {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387018493",
-    "variants": [
-      {
-        "id": "4548387018486",
-        "name": "Chiikawa＆Hachiware",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018486.jpg"
-      },
-      {
-        "id": "4548387018493",
-        "name": "Usagi＆Momonga",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387018493.jpg"
-      }
-    ],
-    "price": 550,
-    "name": "Chiikawa Mascot Hair Pony 2P (Usagi &amp; Momonga)",
-    "description": "The hair pony that hides the gom part with Chiikawa parts even when tying hair without styling can be worn on the wrist when not in use for a pop accessory♪\n\nSize (approx.): Each H20×W25mmWeight (approx.): Each 20gMaterials: Parts: Acrylic resin, AS resin Gom: Natural rubber, nylonManufacturing location: Japan",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
         "name": "Usagi",
         "slug": "usagi"
       },
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
       }
     ],
     "vendor": "粧美堂"
@@ -3673,7 +2927,7 @@
     "price": 1210,
     "name": "Chiikawa Mini Hair Clips 4P (Chiikawa &amp; Hachiware)",
     "description": "Recommended hair accessories for a wide range of ages, from children to adults.\nSize (approx.): H22×W22×D33mm (each part)Weight (approx.): 20gMaterial: ABS resinManufacturing location: China",
-    "status": "available",
+    "status": "sold_out",
     "images": [
       "https://chiikawamarket.jp/cdn/shop/files/4548387018509_1.jpg",
       "https://chiikawamarket.jp/cdn/shop/files/image_1_5585b689-67eb-4c7f-b65f-b53c2ee9ac7c.jpg",
@@ -3694,14 +2948,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
       }
     ],
     "vendor": "粧美堂"
@@ -3744,414 +2990,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387028966",
-    "variants": [],
-    "price": 1078,
-    "name": "Chiikawa Shoe Bag (Cherry)",
-    "description": "This is a perfect item for entering kindergarten or school♪\n\nSize: Approximately H335×W250mm\nMaterial: Polyester\nManufacturing location: China",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387028973",
-    "variants": [],
-    "price": 1078,
-    "name": "Chiikawa Shoe Bag (Star)",
-    "description": "This is the perfect item for kindergarten admission♪\n\nSize: Approximately H335×W250mm\nMaterial: Polyester\nManufacturing location: China",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Star",
-        "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387028980",
-    "variants": [],
-    "price": 1408,
-    "name": "Chiikawa Knapsack (Cherry)",
-    "description": "This is a perfect item for kindergarten enrollment♪\n\nSize: Approximately H430×W350mm\nMaterial: Polyester\nManufacturing location: China",
-    "status": "available",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387028997",
-    "variants": [],
-    "price": 1408,
-    "name": "Chiikawa Knapsack (Star)",
-    "description": "Perfect item for kindergarten and school admission♪\n\nSize: Approx. H430×W350mm\nMaterial: Polyester\nManufacturing Location: China",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Star",
-        "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387029000",
-    "variants": [],
-    "price": 2420,
-    "name": "Chiikawa 2-Way Bag (Cherry)",
-    "description": "Slanted shoulder bag, 2WAY with hand carry!\nPerfect item for kindergarten and school admission ♪\n\nSize: Approximately H310×W460×D110mm\nMaterial: Polyester\nManufacturing location: China",
-    "status": "available",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387029017",
-    "variants": [],
-    "price": 2420,
-    "name": "Chiikawa 2-Way Bag (Star)",
-    "description": "Diagonal shoulder bag, 2WAY with hand carry!\nPerfect item for school admission and entrance ceremonies♪\n\nSize: Approx. H310×W460×D110mm\nMaterial: Polyester\nManufacturing location: China",
-    "status": "available",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Star",
-        "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387029024",
-    "variants": [],
-    "price": 2420,
-    "name": "Chiikawa 3-Way Bag (Cherry)",
-    "description": "Shoulder, rucksack, hand-held 3WAY!\nPerfect item for kindergarten and school admission ♪\n\nSize: Approx. H380×W360×D135mm\nMaterial: Polyester\nManufacturing location: China",
-    "status": "available",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387029031",
-    "variants": [],
-    "price": 2420,
-    "name": "Chiikawa 3-Way Bag (Star)",
-    "description": "Shoulder, rucksack, hand-carry 3WAY!\nPerfect item for entering kindergarten or school♪\n\nSize: Approx. H380×W360×D135mm\nMaterial: Polyester\nManufacturing location: China",
-    "status": "available",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Star",
-        "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387029048",
-    "variants": [],
-    "price": 3190,
-    "name": "Chiikawa D-Pack (Cherry)",
-    "description": "Mini size rucksack!\nPerfect item for kindergarten and school admission♪\n\nSize: Approximately H330×W250×D110mm\nMaterial: Polyester\nManufactured in: China",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387029055",
-    "variants": [],
-    "price": 3190,
-    "name": "Chiikawa D-Pack (Star)",
-    "description": "Mini Size Rucksack!\nPerfect item for school and kindergarten entrance♪\n\nSize: Approx. H330×W250×D110mm\nMaterial: Polyester\nManufacturing location: China",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Star",
-        "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -4177,14 +3015,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
       }
     ],
     "vendor": "粧美堂"
@@ -4210,14 +3040,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
       }
     ],
     "vendor": "粧美堂"
@@ -4243,14 +3065,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
       }
     ],
     "vendor": "粧美堂"
@@ -4276,14 +3090,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
       }
     ],
     "vendor": "粧美堂"
@@ -4309,14 +3115,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
       }
     ],
     "vendor": "粧美堂"
@@ -4342,14 +3140,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
       }
     ],
     "vendor": "粧美堂"
@@ -4375,14 +3165,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
       }
     ],
     "vendor": "粧美堂"
@@ -4408,14 +3190,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
       }
     ],
     "vendor": "粧美堂"
@@ -4441,14 +3215,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
       }
     ],
     "vendor": "粧美堂"
@@ -4504,14 +3270,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -4563,14 +3321,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -4622,14 +3372,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -4697,14 +3439,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -4760,14 +3494,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -4819,14 +3545,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -4878,14 +3596,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -4953,14 +3663,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -5012,14 +3714,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
       }
     ],
     "vendor": "粧美堂"
@@ -5071,14 +3765,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
       }
     ],
     "vendor": "粧美堂"
@@ -5130,14 +3816,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
       }
     ],
     "vendor": "粧美堂"
@@ -5189,14 +3867,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
       }
     ],
     "vendor": "粧美堂"
@@ -5233,7 +3903,7 @@
     "price": 1320,
     "name": "Chiikawa Luggage Tag (Chiikawa)",
     "description": "This is a travel set with the best goods for traveling♪\n\nSize (approx.): H116×W125×D7mm\nWeight (approx.): 9g\nMaterial: PVC, ABS resin\nManufacturing location: China",
-    "status": "available",
+    "status": "sold_out",
     "images": [
       "https://chiikawamarket.jp/cdn/shop/files/4548387383829_1.jpg",
       "https://chiikawamarket.jp/cdn/shop/files/image_1_ac61e236-e2f7-48a5-b16c-213ca81965b5.jpg",
@@ -5250,14 +3920,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Key ring",
-        "slug": "key-ring"
       }
     ],
     "vendor": "粧美堂"
@@ -5311,14 +3973,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Key ring",
-        "slug": "key-ring"
       }
     ],
     "vendor": "粧美堂"
@@ -5372,14 +4026,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Key ring",
-        "slug": "key-ring"
       }
     ],
     "vendor": "粧美堂"
@@ -5433,14 +4079,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Key ring",
-        "slug": "key-ring"
       }
     ],
     "vendor": "粧美堂"
@@ -5494,14 +4132,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Key ring",
-        "slug": "key-ring"
       }
     ],
     "vendor": "粧美堂"
@@ -5559,14 +4189,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -5620,14 +4242,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -5677,14 +4291,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -5728,20 +4334,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "粧美堂"
@@ -5785,20 +4387,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "粧美堂"
@@ -5842,20 +4440,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "粧美堂"
@@ -5899,20 +4493,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "粧美堂"
@@ -5965,14 +4555,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -6025,14 +4607,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -6085,14 +4659,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -6145,14 +4711,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -6175,6 +4733,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
@@ -6189,14 +4751,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "粧美堂"
@@ -6218,20 +4772,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "粧美堂"
@@ -6294,14 +4844,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -6348,14 +4890,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -6416,14 +4950,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -6468,242 +4994,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387437188",
-    "variants": [
-      {
-        "id": "4548387437188",
-        "name": "BK",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387437188_1.jpg"
-      },
-      {
-        "id": "4548387437195",
-        "name": "PL",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387437195_1.jpg"
-      }
-    ],
-    "price": 1540,
-    "name": "Chiikawa All-Over Pattern Knapsack BK",
-    "description": "This is a series with name tags.\n*Please note that this product will be shipped after 2025/1/6.\nSize (approx.): H430×W350mmMaterial: PolyesterManufacturing location: China",
-    "status": "available",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Momonga",
-        "slug": "momonga"
-      },
-      {
-        "name": "Kurimanju",
-        "slug": "kurimanju"
-      },
-      {
-        "name": "Shisa",
-        "slug": "shisa"
-      },
-      {
-        "name": "Furuhonya",
-        "slug": "furuhonya"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387437195",
-    "variants": [
-      {
-        "id": "4548387437188",
-        "name": "BK",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387437188_1.jpg"
-      },
-      {
-        "id": "4548387437195",
-        "name": "PL",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387437195_1.jpg"
-      }
-    ],
-    "price": 1540,
-    "name": "Chiikawa All-Over Pattern Knapsack PL",
-    "description": "This is a series with name tags.\n*Please note that this product will be shipped after January 6, 2025.\nSize (approx.): H430×W350mmMaterial: PolyesterManufacturing location: China",
-    "status": "available",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387437232",
-    "variants": [
-      {
-        "id": "4548387437232",
-        "name": "BK",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387437232_1.jpg"
-      },
-      {
-        "id": "4548387437249",
-        "name": "PL",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387437249_1.jpg"
-      }
-    ],
-    "price": 1320,
-    "name": "Chiikawa All-Over Pattern Drawstring Pouch (Vertical) BK",
-    "description": "These are series with name tags.\n*Please note that this product will be shipped after 2025/1/6.\nSize (approx.): H335×W250mmMaterial: PolyesterManufacturing location: China",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Momonga",
-        "slug": "momonga"
-      },
-      {
-        "name": "Kurimanju",
-        "slug": "kurimanju"
-      },
-      {
-        "name": "Shisa",
-        "slug": "shisa"
-      },
-      {
-        "name": "Furuhonya",
-        "slug": "furuhonya"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387437249",
-    "variants": [
-      {
-        "id": "4548387437232",
-        "name": "BK",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387437232_1.jpg"
-      },
-      {
-        "id": "4548387437249",
-        "name": "PL",
-        "img": "https://chiikawamarket.jp/cdn/shop/files/4548387437249_1.jpg"
-      }
-    ],
-    "price": 1320,
-    "name": "Chiikawa All-Over Pattern Drawstring Pouch (Vertical) PL",
-    "description": "This is a series with a name tag.\n※ Please note that this product will be shipped after January 6, 2025.\nSize (approx.): H335×W250mmMaterial: PolyesterManufacturing location: China",
-    "status": "available",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -6764,14 +5054,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -6816,14 +5098,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -6884,14 +5158,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -6936,14 +5202,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -7000,14 +5258,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -7052,14 +5302,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -7116,14 +5358,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -7168,306 +5402,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387461817",
-    "variants": [],
-    "price": 770,
-    "name": "Chiikawa Ear Cuffs (Gold)",
-    "description": "New ear cuff debut at Chiikawa!\n\nBody size: approximately 12~14mm\nPackage size: approximately H119×W71mm\nMaterial: brass alloy, stainless steel\nManufacturing location: China",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Momonga",
-        "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Accessories/Watch",
-        "slug": "accessories/watch"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387461824",
-    "variants": [],
-    "price": 770,
-    "name": "Chiikawa Ear Cuffs (Silver)",
-    "description": "New ear cuff debut at Chiikawa!\n\nBody size: Approximately 8.2~14mm\nPackage size: Approximately H119×W71mm\nMaterial: Zinc alloy, stainless steel\nManufacturing location: China",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Accessories/Watch",
-        "slug": "accessories/watch"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387461831",
-    "variants": [],
-    "price": 770,
-    "name": "Chiikawa Earrings (Gold)",
-    "description": "New earrings debut with Chiikawa!\nMain body size: Approx. H47×W16mm Package size: Approx. H119×W71mm Material: Zinc alloy, stainless steel, silicone resin Manufacturing location: China",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Accessories/Watch",
-        "slug": "accessories/watch"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387461848",
-    "variants": [],
-    "price": 770,
-    "name": "Chiikawa Earrings (Silver)",
-    "description": "New earrings debut at Chiikawa!\nBody size: Approx. H47×W16mm Package size: Approx. H119×W71mm Material: Zinc alloy, stainless steel, silicone resin Manufacturing location: China",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Momonga",
-        "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Accessories/Watch",
-        "slug": "accessories/watch"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387462548",
-    "variants": [],
-    "price": 880,
-    "name": "Chiikawa 6-Piece Earrings (Gold)",
-    "description": "It's a cute design with familiar characters added as one point.\n\nSize: Approximately H90×W68×D10mm (package)\nWeight: Approximately 10g\nMaterial: Zinc alloy, stainless steel, silicone tree resin\nManufacturing location: China",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Momonga",
-        "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Accessories/Watch",
-        "slug": "accessories/watch"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387462555",
-    "variants": [],
-    "price": 880,
-    "name": "Chiikawa 6-Piece Earrings (Silver)",
-    "description": "This is a cute design with familiar characters added as one point.\n\nSize: Approximately H90×W68×D10mm (Package)\nWeight: Approximately 10g\nMaterial: Zinc alloy, stainless steel, silicone resin\nManufacturing location: China",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Accessories/Watch",
-        "slug": "accessories/watch"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387462562",
-    "variants": [],
-    "price": 880,
-    "name": "Chiikawa Ear Cuff (Gold Kaki Kaki)",
-    "description": "This is a cute design that adds familiar characters as a one-point feature.\n\nSize: Approximately H80×W80×D10mm (Package)\nWeight: Approximately 7g\nMaterial: Zinc alloy, stainless steel, silicone resin\nManufacturing location: China",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Accessories/Watch",
-        "slug": "accessories/watch"
-      }
-    ],
-    "vendor": "粧美堂"
-  },
-  {
-    "id": "4548387462579",
-    "variants": [],
-    "price": 880,
-    "name": "Chiikawa Ear Cuff (Silver Wa~...)",
-    "description": "This is a cute design that adds familiar characters to the one-point.\n\nSize: Approximately H80×W80×D10mm (package)\nWeight: Approximately 7g\nMaterial: Zinc alloy, stainless steel, silicone rubber\nManufacturing location: China",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Goods",
-        "slug": "goods"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Kurimanju",
-        "slug": "kurimanju"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Accessories/Watch",
-        "slug": "accessories/watch"
       }
     ],
     "vendor": "粧美堂"
@@ -7487,20 +5421,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "粧美堂"
@@ -7520,20 +5450,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "粧美堂"
@@ -7560,14 +5486,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
       }
     ],
     "vendor": "粧美堂"
@@ -7594,14 +5512,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
       }
     ],
     "vendor": "粧美堂"
@@ -7622,20 +5532,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "粧美堂"
@@ -7656,20 +5562,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "粧美堂"
@@ -7690,20 +5592,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "粧美堂"
@@ -7724,6 +5622,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
@@ -7734,14 +5636,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "粧美堂"
@@ -7765,20 +5659,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "粧美堂"
@@ -7802,20 +5692,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "粧美堂"
@@ -7840,20 +5726,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "粧美堂"
@@ -7877,20 +5759,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "粧美堂"
@@ -7914,6 +5792,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
@@ -7932,14 +5814,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "粧美堂"
@@ -7975,14 +5849,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
       }
     ],
     "vendor": "粧美堂"
@@ -8004,20 +5870,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "粧美堂"
@@ -8039,20 +5901,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "粧美堂"
@@ -8074,20 +5932,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "粧美堂"
@@ -8109,6 +5963,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
@@ -8123,14 +5981,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "粧美堂"
@@ -8152,6 +6002,10 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
@@ -8166,14 +6020,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "粧美堂"
@@ -8217,14 +6063,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -8268,14 +6106,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "粧美堂"
@@ -8295,20 +6125,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Charm",
+        "slug": "charm"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Charm",
-        "slug": "charm"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8328,20 +6154,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Charm",
+        "slug": "charm"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Charm",
-        "slug": "charm"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8361,20 +6183,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Charm",
+        "slug": "charm"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Charm",
-        "slug": "charm"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8401,18 +6219,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Card holder",
-        "slug": "card-holder"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8439,18 +6245,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Card holder",
-        "slug": "card-holder"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8477,18 +6271,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Card holder",
-        "slug": "card-holder"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8509,24 +6291,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8547,24 +6321,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8585,24 +6351,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8630,18 +6388,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Card holder",
-        "slug": "card-holder"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8669,18 +6415,6 @@
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Card holder",
-        "slug": "card-holder"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8708,18 +6442,6 @@
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Card holder",
-        "slug": "card-holder"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8762,14 +6484,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Card holder",
-        "slug": "card-holder"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8812,14 +6526,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Card holder",
-        "slug": "card-holder"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8862,14 +6568,6 @@
       {
         "name": "Anoko",
         "slug": "anoko"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Card holder",
-        "slug": "card-holder"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8911,20 +6609,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -8966,20 +6660,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -9021,20 +6711,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -9076,20 +6762,16 @@
       {
         "name": "Goods",
         "slug": "goods"
+      },
+      {
+        "name": "Pouch",
+        "slug": "pouch"
       }
     ],
     "characters": [
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Pouch",
-        "slug": "pouch"
       }
     ],
     "vendor": "グルマンディーズ"
@@ -9131,20 +6813,8 @@
         "slug": "usagi"
       },
       {
-        "name": "Yoroi-san",
-        "slug": "yoroi-san"
-      },
-      {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "ギャレット"
@@ -9186,20 +6856,8 @@
         "slug": "usagi"
       },
       {
-        "name": "Yoroi-san",
-        "slug": "yoroi-san"
-      },
-      {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "ギャレット"
@@ -9241,20 +6899,8 @@
         "slug": "usagi"
       },
       {
-        "name": "Yoroi-san",
-        "slug": "yoroi-san"
-      },
-      {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "ギャレット"
@@ -9296,20 +6942,8 @@
         "slug": "usagi"
       },
       {
-        "name": "Yoroi-san",
-        "slug": "yoroi-san"
-      },
-      {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "ギャレット"
@@ -9351,20 +6985,8 @@
         "slug": "usagi"
       },
       {
-        "name": "Yoroi-san",
-        "slug": "yoroi-san"
-      },
-      {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "ギャレット"
@@ -9406,20 +7028,8 @@
         "slug": "usagi"
       },
       {
-        "name": "Yoroi-san",
-        "slug": "yoroi-san"
-      },
-      {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "ギャレット"
@@ -9461,20 +7071,8 @@
         "slug": "usagi"
       },
       {
-        "name": "Yoroi-san",
-        "slug": "yoroi-san"
-      },
-      {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "ギャレット"
@@ -9516,20 +7114,8 @@
         "slug": "usagi"
       },
       {
-        "name": "Yoroi-san",
-        "slug": "yoroi-san"
-      },
-      {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "ギャレット"
@@ -9573,14 +7159,6 @@
       {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "ギャレット"
@@ -9624,14 +7202,6 @@
       {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "ギャレット"
@@ -9675,14 +7245,6 @@
       {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "ギャレット"
@@ -9726,14 +7288,6 @@
       {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "ギャレット"
@@ -9777,14 +7331,6 @@
       {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "ギャレット"
@@ -9828,14 +7374,6 @@
       {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "ギャレット"
@@ -9879,14 +7417,6 @@
       {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "ギャレット"
@@ -9930,14 +7460,6 @@
       {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "ギャレット"
@@ -9981,14 +7503,6 @@
       {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "ギャレット"
@@ -10032,14 +7546,6 @@
       {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Bag",
-        "slug": "bag"
       }
     ],
     "vendor": "ギャレット"

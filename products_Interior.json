@@ -27,12 +27,7 @@
         "slug": "interior"
       }
     ],
-    "characters": [
-      {
-        "name": "Interior",
-        "slug": "interior"
-      }
-    ],
+    "characters": [],
     "vendor": "エイコー"
   },
   {
@@ -53,12 +48,7 @@
         "slug": "interior"
       }
     ],
-    "characters": [
-      {
-        "name": "Interior",
-        "slug": "interior"
-      }
-    ],
+    "characters": [],
     "vendor": "エイコー"
   },
   {
@@ -85,6 +75,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Figure",
+        "slug": "figure"
       }
     ],
     "characters": [
@@ -107,14 +101,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Figure",
-        "slug": "figure"
       }
     ],
     "vendor": "エイコー"
@@ -125,21 +111,30 @@
     "price": 1320,
     "name": "Chiikawa Interior Mini Figure IV (All 8 Types) 1 Box, 12 Pieces",
     "description": "Somehow small and cute figure, fourth edition!\nMomonga & Rakko also make a full appearance!\nThe familiar Chiikawa are also added with sleeping poses, making it full of collection elements.\n\n*All types are included when purchasing 1 BOX.\n\nSize:\n　Main body: Approximately H25×W30～40×D25～35mm\n　Package: Approximately H80×W75×D80mm\n　BOX: Approximately H90×W150×D90mm\n　Weight (figure): Approximately 15g\n　Material: ATBC-PVC\n　Manufacturing location: China",
-    "status": "sold_out",
+    "status": "available",
     "images": [
-      "https://chiikawamarket.jp/cdn/shop/files/chiikawa_minifigure4_web.jpg",
-      "https://chiikawamarket.jp/cdn/shop/files/ck_figure_230731_2.jpg",
-      "https://chiikawamarket.jp/cdn/shop/files/ck_figure_230731_3.jpg",
-      "https://chiikawamarket.jp/cdn/shop/files/ck_figure_230731_4.jpg",
-      "https://chiikawamarket.jp/cdn/shop/files/ck_figure_230731_5.jpg",
-      "https://chiikawamarket.jp/cdn/shop/files/ck_figure_230731_6.jpg",
-      "https://chiikawamarket.jp/cdn/shop/files/ck_figure_230731_8.jpg",
-      "https://chiikawamarket.jp/cdn/shop/files/ck_figure_230731_9.jpg"
+      "https://chiikawamarket.jp/cdn/shop/files/4513750119336_1.jpg",
+      "https://chiikawamarket.jp/cdn/shop/files/4513750119336_2.jpg",
+      "https://chiikawamarket.jp/cdn/shop/files/4513750119336_3.jpg",
+      "https://chiikawamarket.jp/cdn/shop/files/4513750119336_4.jpg",
+      "https://chiikawamarket.jp/cdn/shop/files/4513750119336_5.jpg",
+      "https://chiikawamarket.jp/cdn/shop/files/4513750119336_6.jpg",
+      "https://chiikawamarket.jp/cdn/shop/files/4513750119336_7.jpg",
+      "https://chiikawamarket.jp/cdn/shop/files/4513750119336_8.jpg",
+      "https://chiikawamarket.jp/cdn/shop/files/4513750119336_9.jpg",
+      "https://chiikawamarket.jp/cdn/shop/files/4513750119336_10.jpg",
+      "https://chiikawamarket.jp/cdn/shop/files/4513750119336_11.jpg",
+      "https://chiikawamarket.jp/cdn/shop/files/4513750119336_12.jpg",
+      "https://chiikawamarket.jp/cdn/shop/files/4513750119336_13_43bb7681-a008-45fa-aedf-1341c3217790.jpg"
     ],
     "categories": [
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Figure",
+        "slug": "figure"
       }
     ],
     "characters": [
@@ -166,14 +161,6 @@
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Figure",
-        "slug": "figure"
       }
     ],
     "vendor": "エイコー"
@@ -184,7 +171,7 @@
     "price": 1320,
     "name": "Chiikawa Interior Mini Figure V (All 8 types) 1BOX 12 pieces",
     "description": "The popular Interior mini Figure series volume 5 is on sale!!\nMomonga & Furuhonya are also appearing!\n\nSize (approx.):\n　Main body: Each H30mm\n　Package: Approx. H80×W75×D80mm\n　BOX: Approx. H90×W150×D90mm\n　Weight (approx.): Total 15g\n　Material: ATBC-PVC\n　Manufacturing location: China",
-    "status": "sold_out",
+    "status": "available",
     "images": [
       "https://chiikawamarket.jp/cdn/shop/files/4513750153163_1.jpg",
       "https://chiikawamarket.jp/cdn/shop/files/4513750153163_2.jpg",
@@ -200,6 +187,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Figure",
+        "slug": "figure"
       }
     ],
     "characters": [
@@ -222,14 +213,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Figure",
-        "slug": "figure"
       }
     ],
     "vendor": "エイコー"
@@ -240,7 +223,7 @@
     "price": 1320,
     "name": "Chiikawa Soft Vinyl Interior Mascot (All 6 types) 1BOX 12 pieces",
     "description": "Mini Figure series is now available as a soft vinyl release!!\n\n*All types are included when purchasing 1 BOX.\n\nSize (approx.): H55mm\nMaterial: PVC vinyl chloride\nManufacturing location: China",
-    "status": "sold_out",
+    "status": "available",
     "images": [
       "https://chiikawamarket.jp/cdn/shop/files/4513750153903_1.jpg",
       "https://chiikawamarket.jp/cdn/shop/files/4513750153903_2.jpg",
@@ -254,6 +237,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Figure",
+        "slug": "figure"
       }
     ],
     "characters": [
@@ -268,14 +255,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Figure",
-        "slug": "figure"
       }
     ],
     "vendor": "エイコー"
@@ -321,20 +300,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Figure",
+        "slug": "figure"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Figure",
-        "slug": "figure"
       }
     ],
     "vendor": "グッドスマイルカンパニー"
@@ -380,20 +355,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Figure",
+        "slug": "figure"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Figure",
-        "slug": "figure"
       }
     ],
     "vendor": "グッドスマイルカンパニー"
@@ -439,20 +410,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Figure",
+        "slug": "figure"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Figure",
-        "slug": "figure"
       }
     ],
     "vendor": "グッドスマイルカンパニー"
@@ -477,20 +444,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Figure",
+        "slug": "figure"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Figure",
-        "slug": "figure"
       }
     ],
     "vendor": "グッドスマイルカンパニー"
@@ -515,20 +478,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Figure",
+        "slug": "figure"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Figure",
-        "slug": "figure"
       }
     ],
     "vendor": "グッドスマイルカンパニー"
@@ -553,20 +512,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Figure",
+        "slug": "figure"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Figure",
-        "slug": "figure"
       }
     ],
     "vendor": "グッドスマイルカンパニー"
@@ -615,20 +570,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Pets",
+        "slug": "pets"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Pets",
-        "slug": "pets"
       }
     ],
     "vendor": "粧美堂"
@@ -677,20 +628,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Pets",
+        "slug": "pets"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Pets",
-        "slug": "pets"
       }
     ],
     "vendor": "粧美堂"
@@ -739,20 +686,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Pets",
+        "slug": "pets"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Pets",
-        "slug": "pets"
       }
     ],
     "vendor": "粧美堂"
@@ -801,20 +744,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Pets",
+        "slug": "pets"
       }
     ],
     "characters": [
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Pets",
-        "slug": "pets"
       }
     ],
     "vendor": "粧美堂"
@@ -863,20 +802,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Pets",
+        "slug": "pets"
       }
     ],
     "characters": [
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Pets",
-        "slug": "pets"
       }
     ],
     "vendor": "粧美堂"
@@ -918,6 +853,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
@@ -932,14 +871,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "粧美堂"
@@ -981,6 +912,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
@@ -991,14 +926,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "粧美堂"
@@ -1040,6 +967,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
@@ -1050,14 +981,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "粧美堂"
@@ -1099,6 +1022,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
@@ -1125,14 +1052,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "粧美堂"
@@ -1174,6 +1093,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
@@ -1188,14 +1111,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "粧美堂"
@@ -1237,6 +1152,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
@@ -1247,14 +1166,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "粧美堂"
@@ -1296,6 +1207,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
@@ -1306,14 +1221,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "粧美堂"
@@ -1355,6 +1262,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
@@ -1381,14 +1292,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "粧美堂"
@@ -1412,20 +1315,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Pets",
+        "slug": "pets"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Pets",
-        "slug": "pets"
       }
     ],
     "vendor": "粧美堂"
@@ -1449,20 +1348,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Pets",
+        "slug": "pets"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Pets",
-        "slug": "pets"
       }
     ],
     "vendor": "粧美堂"
@@ -1486,20 +1381,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Pets",
+        "slug": "pets"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Pets",
-        "slug": "pets"
       }
     ],
     "vendor": "粧美堂"
@@ -1521,6 +1412,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Pets",
+        "slug": "pets"
       }
     ],
     "characters": [
@@ -1535,14 +1430,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Pets",
-        "slug": "pets"
       }
     ],
     "vendor": "粧美堂"
@@ -1564,6 +1451,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Pets",
+        "slug": "pets"
       }
     ],
     "characters": [
@@ -1598,14 +1489,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Pets",
-        "slug": "pets"
       }
     ],
     "vendor": "粧美堂"
@@ -1640,10 +1523,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "粧美堂"
@@ -1678,10 +1557,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "粧美堂"
@@ -1705,6 +1580,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
@@ -1723,14 +1602,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "粧美堂"
@@ -1776,20 +1647,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "粧美堂"
@@ -1835,20 +1702,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "粧美堂"
@@ -1894,20 +1757,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "粧美堂"
@@ -1953,20 +1812,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "粧美堂"
@@ -1995,12 +1850,7 @@
         "slug": "interior"
       }
     ],
-    "characters": [
-      {
-        "name": "Interior",
-        "slug": "interior"
-      }
-    ],
+    "characters": [],
     "vendor": "モリシタ"
   },
   {
@@ -2027,12 +1877,7 @@
         "slug": "interior"
       }
     ],
-    "characters": [
-      {
-        "name": "Interior",
-        "slug": "interior"
-      }
-    ],
+    "characters": [],
     "vendor": "モリシタ"
   },
   {
@@ -2059,12 +1904,7 @@
         "slug": "interior"
       }
     ],
-    "characters": [
-      {
-        "name": "Interior",
-        "slug": "interior"
-      }
-    ],
+    "characters": [],
     "vendor": "モリシタ"
   },
   {
@@ -2091,12 +1931,7 @@
         "slug": "interior"
       }
     ],
-    "characters": [
-      {
-        "name": "Interior",
-        "slug": "interior"
-      }
-    ],
+    "characters": [],
     "vendor": "モリシタ"
   },
   {
@@ -2123,12 +1958,7 @@
         "slug": "interior"
       }
     ],
-    "characters": [
-      {
-        "name": "Interior",
-        "slug": "interior"
-      }
-    ],
+    "characters": [],
     "vendor": "モリシタ"
   },
   {
@@ -2155,12 +1985,7 @@
         "slug": "interior"
       }
     ],
-    "characters": [
-      {
-        "name": "Interior",
-        "slug": "interior"
-      }
-    ],
+    "characters": [],
     "vendor": "モリシタ"
   },
   {
@@ -2188,14 +2013,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -2224,14 +2041,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -2261,14 +2070,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -2298,14 +2099,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -2371,24 +2164,12 @@
         "slug": "ode"
       },
       {
-        "name": "Yoroi-san",
-        "slug": "yoroi-san"
-      },
-      {
         "name": "Goblin",
         "slug": "goblin"
       },
       {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -2420,14 +2201,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -2459,14 +2232,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -2498,14 +2263,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -2537,14 +2294,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -2576,14 +2325,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -2615,14 +2356,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -2662,14 +2395,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -2708,14 +2433,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -2754,14 +2471,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -2802,14 +2511,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -2843,14 +2544,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -2884,14 +2577,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -2925,14 +2610,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -2966,14 +2643,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -3015,14 +2684,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -3062,14 +2723,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -3109,14 +2762,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -3156,14 +2801,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -3220,14 +2857,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -3284,14 +2913,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -3348,14 +2969,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -3412,14 +3025,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -3475,14 +3080,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -3538,14 +3135,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -3601,14 +3190,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -3664,14 +3245,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -3725,14 +3298,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -3786,14 +3351,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -3847,14 +3404,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -3908,14 +3457,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "モリシタ"
@@ -3953,10 +3494,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "バンダイ（ライフ）"
@@ -3999,10 +3536,6 @@
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "バンダイ（ライフ）"
@@ -4040,10 +3573,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "バンダイ（ライフ）"
@@ -4104,10 +3633,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "バンダイ（ライフ）"
@@ -4150,10 +3675,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "バンダイ（ライフ）"
@@ -4173,6 +3694,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
@@ -4183,14 +3708,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "カミオジャパン"
@@ -4210,6 +3727,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
@@ -4224,14 +3745,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "カミオジャパン"
@@ -4252,20 +3765,6 @@
       {
         "name": "Interior",
         "slug": "interior"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
       },
       {
         "name": "Stationery",
@@ -4274,6 +3773,12 @@
       {
         "name": "Pencase",
         "slug": "pencase"
+      }
+    ],
+    "characters": [
+      {
+        "name": "Chiikawa",
+        "slug": "chiikawa"
       }
     ],
     "vendor": "カミオジャパン"
@@ -4294,20 +3799,6 @@
       {
         "name": "Interior",
         "slug": "interior"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
       },
       {
         "name": "Stationery",
@@ -4316,6 +3807,12 @@
       {
         "name": "Pencase",
         "slug": "pencase"
+      }
+    ],
+    "characters": [
+      {
+        "name": "Hachiware",
+        "slug": "hachiware"
       }
     ],
     "vendor": "カミオジャパン"
@@ -4336,20 +3833,6 @@
       {
         "name": "Interior",
         "slug": "interior"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
       },
       {
         "name": "Stationery",
@@ -4358,6 +3841,12 @@
       {
         "name": "Pencase",
         "slug": "pencase"
+      }
+    ],
+    "characters": [
+      {
+        "name": "Usagi",
+        "slug": "usagi"
       }
     ],
     "vendor": "カミオジャパン"
@@ -4400,20 +3889,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "カミオジャパン"
@@ -4456,20 +3941,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "カミオジャパン"
@@ -4512,20 +3993,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "カミオジャパン"
@@ -4568,20 +4045,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "カミオジャパン"
@@ -4617,20 +4090,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "カミオジャパン"
@@ -4666,20 +4135,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "カミオジャパン"
@@ -4715,20 +4180,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "カミオジャパン"
@@ -4773,14 +4234,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Lighting/Humidifier",
-        "slug": "lighting/humidifier"
       }
     ],
     "vendor": "ジョイパレット"
@@ -4813,14 +4266,6 @@
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "丸眞"
@@ -4877,14 +4322,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "丸眞"
@@ -4904,24 +4341,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Key ring",
-        "slug": "key-ring"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "API"
@@ -4941,24 +4370,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Key ring",
-        "slug": "key-ring"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "API"
@@ -4978,24 +4399,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Key ring",
-        "slug": "key-ring"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "API"
@@ -5015,24 +4428,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Key ring",
-        "slug": "key-ring"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "API"
@@ -5052,24 +4457,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Key ring",
-        "slug": "key-ring"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "API"
@@ -5089,24 +4486,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Key ring",
-        "slug": "key-ring"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "API"
@@ -5126,24 +4515,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Key ring",
-        "slug": "key-ring"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "API"
@@ -5163,24 +4544,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Key ring",
-        "slug": "key-ring"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "API"
@@ -5200,24 +4573,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
       {
         "name": "Rakko",
         "slug": "rakko"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Key ring",
-        "slug": "key-ring"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "API"
@@ -5276,18 +4641,6 @@
       {
         "name": "Beetle",
         "slug": "beetle"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Wall interior",
-        "slug": "wall-interior"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5347,18 +4700,6 @@
       {
         "name": "Beetle",
         "slug": "beetle"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5386,18 +4727,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5429,18 +4758,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5468,18 +4785,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5511,18 +4816,6 @@
       {
         "name": "Goblin",
         "slug": "goblin"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5550,18 +4843,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5593,18 +4874,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5639,14 +4908,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Wall interior",
-        "slug": "wall-interior"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5657,7 +4918,7 @@
     "price": 770,
     "name": "Chiikawa Shisa's Souvenir Shop Bitatto One-Push (Nankurunai-sa~!!)",
     "description": "Size (approx.): H137×W145×D9mm\nMaterial: PP, Silicone Rubber\nManufacturing Location: Japan",
-    "status": "available",
+    "status": "sold_out",
     "images": [
       "https://chiikawamarket.jp/cdn/shop/files/4571609337508.jpg",
       "https://chiikawamarket.jp/cdn/shop/files/image_1_93114b7e-14fc-4fb3-a5da-aa162ff66fe2.jpg",
@@ -5667,6 +4928,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
@@ -5685,18 +4950,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
-      },
-      {
-        "name": "Chiikawa Shisa Matsuri! ! ! &amp; Shisa's Souvenir Shop",
-        "slug": "chiikawa-shisa-matsuri!-!-!-&amp;-shisa's-souvenir-shop"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5717,24 +4970,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
-      },
-      {
-        "name": "Chiikawa Shisa Matsuri! ! ! &amp; Shisa's Souvenir Shop",
-        "slug": "chiikawa-shisa-matsuri!-!-!-&amp;-shisa's-souvenir-shop"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5761,14 +5006,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Chiikawa Shisa Matsuri! ! ! &amp; Shisa's Souvenir Shop",
-        "slug": "chiikawa-shisa-matsuri!-!-!-&amp;-shisa's-souvenir-shop"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5796,14 +5033,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Chiikawa Shisa Matsuri! ! ! &amp; Shisa's Souvenir Shop",
-        "slug": "chiikawa-shisa-matsuri!-!-!-&amp;-shisa's-souvenir-shop"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5876,18 +5105,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Chiikawa× Yomiuri Giants",
-        "slug": "chiikawa×-yomiuri-giants"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5923,18 +5140,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Chiikawarestaurant",
-        "slug": "chiikawarestaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -5966,18 +5171,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Chiikawarestaurant",
-        "slug": "chiikawarestaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6009,18 +5202,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Chiikawarestaurant",
-        "slug": "chiikawarestaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6084,18 +5265,6 @@
       {
         "name": "Beetle",
         "slug": "beetle"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6156,18 +5325,6 @@
       {
         "name": "Beetle",
         "slug": "beetle"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6193,14 +5350,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Chiikawa Sushi",
-        "slug": "chiikawa-sushi"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6265,14 +5414,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Chiikawa Sushi",
-        "slug": "chiikawa-sushi"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6337,14 +5478,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Chiikawa Sushi",
-        "slug": "chiikawa-sushi"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6382,14 +5515,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Chiikawa Sushi",
-        "slug": "chiikawa-sushi"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6437,18 +5562,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Chiikawa Parallel world! ?",
-        "slug": "chiikawa-parallel-world!-?"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6496,18 +5609,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Chiikawa Parallel world! ?",
-        "slug": "chiikawa-parallel-world!-?"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6563,18 +5664,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Chiikawa Parallel world! ?",
-        "slug": "chiikawa-parallel-world!-?"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6626,18 +5715,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Chiikawa Parallel world! ?",
-        "slug": "chiikawa-parallel-world!-?"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6683,6 +5760,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Figure",
+        "slug": "figure"
       }
     ],
     "characters": [
@@ -6705,18 +5786,6 @@
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "Yoroi-san",
-        "slug": "yoroi-san"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Figure",
-        "slug": "figure"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6766,6 +5835,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Figure",
+        "slug": "figure"
       }
     ],
     "characters": [
@@ -6800,22 +5873,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Yoroi-san",
-        "slug": "yoroi-san"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Figure",
-        "slug": "figure"
-      },
-      {
-        "name": "Chiikawarestaurant",
-        "slug": "chiikawarestaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6850,6 +5907,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
@@ -6864,14 +5925,6 @@
       {
         "name": "Beetle",
         "slug": "beetle"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6906,6 +5959,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
@@ -6916,14 +5973,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -6982,14 +6031,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7054,14 +6095,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7127,14 +6160,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7180,6 +6205,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Figure",
+        "slug": "figure"
       }
     ],
     "characters": [
@@ -7214,18 +6243,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Figure",
-        "slug": "figure"
-      },
-      {
-        "name": "Chiikawa Sushi",
-        "slug": "chiikawa-sushi"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7278,14 +6295,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Wall interior",
-        "slug": "wall-interior"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7330,14 +6339,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Wall interior",
-        "slug": "wall-interior"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7382,14 +6383,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Wall interior",
-        "slug": "wall-interior"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7412,6 +6405,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
@@ -7446,18 +6443,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
-      },
-      {
-        "name": "Chiikawa Bakery",
-        "slug": "chiikawa-bakery"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7505,18 +6490,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7572,18 +6545,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7635,18 +6596,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Magical Chikawa &amp; Super Magical Chikawa",
-        "slug": "magical-chikawa-&amp;-super-magical-chikawa"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7669,6 +6618,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
@@ -7687,18 +6640,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
-      },
-      {
-        "name": "Chiikawa Baby",
-        "slug": "chiikawa-baby"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -7737,14 +6678,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Lighting/Humidifier",
-        "slug": "lighting/humidifier"
       }
     ],
     "vendor": "リリック"
@@ -7791,6 +6724,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Figure",
+        "slug": "figure"
       }
     ],
     "characters": [
@@ -7835,24 +6772,12 @@
         "slug": "ode"
       },
       {
-        "name": "Yoroi-san",
-        "slug": "yoroi-san"
-      },
-      {
         "name": "Beetle",
         "slug": "beetle"
       },
       {
         "name": "Goblin",
         "slug": "goblin"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Figure",
-        "slug": "figure"
       }
     ],
     "vendor": "奇譚クラブ"
@@ -7899,6 +6824,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Figure",
+        "slug": "figure"
       }
     ],
     "characters": [
@@ -7943,203 +6872,15 @@
         "slug": "ode"
       },
       {
-        "name": "Yoroi-san",
-        "slug": "yoroi-san"
-      },
-      {
         "name": "Beetle",
         "slug": "beetle"
       },
       {
         "name": "Goblin",
         "slug": "goblin"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Figure",
-        "slug": "figure"
       }
     ],
     "vendor": "奇譚クラブ"
-  },
-  {
-    "id": "4580074572819",
-    "variants": [],
-    "price": 2200,
-    "name": "Chiikawa Cafe Puzzle (300 Pieces)",
-    "description": "Chiikawa This is an original cafe product. It is a puzzle with 300 pieces at the beginner level. Perfect for spending time at home. Size:  Puzzle: Approximately H260×W380mm  Package: Approximately H145×W170×D50mm Material: Paper Made in Japan",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Interior",
-        "slug": "interior"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      }
-    ],
-    "vendor": "株式会社パルコ"
-  },
-  {
-    "id": "4580074572826",
-    "variants": [],
-    "price": 880,
-    "name": "Chiikawa Cafe Random Mini Canvas Art (All 6 Types) [Single Piece]",
-    "description": "◆１Up to 10 meetingsChiikawa is an original cafe product.Includes 6 types of mini art boards.Look forward to seeing which one you receive.Can also be used as a magnet.※You cannot choose the design.Size: Approx. H84×W63×D10mmWeight: 25gMaterial:Art board: Cotton, polyesterLegs: ABSMade in Japan※This is a blind package (randomly enclosed), so you cannot choose the design.※Due to the random enclosure, if you purchase multiple, you may receive the same design, and you may not receive the design you desire.",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Interior",
-        "slug": "interior"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Interior",
-        "slug": "interior"
-      }
-    ],
-    "vendor": "株式会社パルコ"
-  },
-  {
-    "id": "4580784952864",
-    "variants": [],
-    "price": 880,
-    "name": "Chiikawa Chinese Diner Random Mini Canvas Art (All 6 types)",
-    "description": "Chiikawa is an original hotel goods. It can also be used as a magnet with the attached legs.\n※ It is a blind specification (randomly enclosed), and you cannot choose the design.※ Due to the random enclosure, there may be cases where the same design appears in multiple purchases, or the desired design may not appear. Size: Approx. H84×W63×D10mm Weight: Approx. 25g Material:  Artboard: Cotton, polyester, magnet  Legs: ABS Made in Japan",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Interior",
-        "slug": "interior"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Momonga",
-        "slug": "momonga"
-      },
-      {
-        "name": "Kurimanju",
-        "slug": "kurimanju"
-      },
-      {
-        "name": "Rakko",
-        "slug": "rakko"
-      },
-      {
-        "name": "Shisa",
-        "slug": "shisa"
-      },
-      {
-        "name": "Yoroi-san",
-        "slug": "yoroi-san"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Stationery",
-        "slug": "stationery"
-      },
-      {
-        "name": "Chiikawa Restaurant",
-        "slug": "chiikawa-restaurant"
-      }
-    ],
-    "vendor": "株式会社パルコ"
-  },
-  {
-    "id": "4580784952871",
-    "variants": [],
-    "price": 550,
-    "name": "Chiikawa Chinese Diner Random Wood Stand Key ring (All 10 types)",
-    "description": "Chiikawa These are hotel original goods. Comes with stand parts on the back. Includes a ball chain.\n※ It is a blind design (randomly enclosed), so you cannot choose the design. ※ Due to the random enclosure, if you purchase multiple items, the same design may appear, and the desired design may not appear. Size: Approximately H57×W49mm Weight: Approximately 5g Material: Hinoki, plastic Manufacturing location: Japan",
-    "status": "sold_out",
-    "images": [],
-    "categories": [
-      {
-        "name": "Interior",
-        "slug": "interior"
-      }
-    ],
-    "characters": [
-      {
-        "name": "Chiikawa",
-        "slug": "chiikawa"
-      },
-      {
-        "name": "Hachiware",
-        "slug": "hachiware"
-      },
-      {
-        "name": "Usagi",
-        "slug": "usagi"
-      },
-      {
-        "name": "Momonga",
-        "slug": "momonga"
-      },
-      {
-        "name": "Kurimanju",
-        "slug": "kurimanju"
-      },
-      {
-        "name": "Rakko",
-        "slug": "rakko"
-      },
-      {
-        "name": "Shisa",
-        "slug": "shisa"
-      },
-      {
-        "name": "Key ring",
-        "slug": "key-ring"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Chiikawa Restaurant",
-        "slug": "chiikawa-restaurant"
-      }
-    ],
-    "vendor": "株式会社パルコ"
   },
   {
     "id": "4580784954165",
@@ -8164,18 +6905,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Chiikawa Restaurant",
-        "slug": "chiikawa-restaurant"
       }
     ],
     "vendor": "株式会社パルコ"
@@ -8210,10 +6939,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "パンクス"
@@ -8248,10 +6973,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "パンクス"
@@ -8286,10 +7007,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "パンクス"
@@ -8300,7 +7017,7 @@
     "price": 4950,
     "name": "Chiikawa Light-Up Humidifier",
     "description": "An 'Illuminated Humidifier' Recommended for the Dry Season!\nIt can humidify for up to 10 hours.\nThe gentle light function is perfect for chilling out at night.\n\nSize: Approx. H252×W119×D119mm\nWeight: Approx. 500g\nMaterial: ABS Resin, Polypropylene\nManufacturing Location: China",
-    "status": "available",
+    "status": "sold_out",
     "images": [
       "https://chiikawamarket.jp/cdn/shop/products/4582487082633_1.jpg",
       "https://chiikawamarket.jp/cdn/shop/products/4582487082633_4.jpg",
@@ -8356,24 +7073,12 @@
         "slug": "shisa"
       },
       {
-        "name": "Yoroi-san",
-        "slug": "yoroi-san"
-      },
-      {
         "name": "Beetle",
         "slug": "beetle"
       },
       {
         "name": "Star",
         "slug": "star"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Lighting/Humidifier",
-        "slug": "lighting/humidifier"
       }
     ],
     "vendor": "パンクス"
@@ -8413,14 +7118,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Lighting/Humidifier",
-        "slug": "lighting/humidifier"
       }
     ],
     "vendor": "パンクス"
@@ -8460,14 +7157,6 @@
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Lighting/Humidifier",
-        "slug": "lighting/humidifier"
       }
     ],
     "vendor": "パンクス"
@@ -8478,7 +7167,7 @@
     "price": 3850,
     "name": "Chiikawa Room Light (Shisa)",
     "description": "Softly glowing Chiikawa room light. Made with soft silicone material for a pleasant touch. The brightness can be adjusted in 4 levels! With a USB rechargeable cordless design, it can be carried anywhere.\n\nSize: Approx. H140×W150×D105mm\nMaterial:\n  Body: Silicone rubber\n  LED lamp: ABS\nPower source: Lithium-ion battery\nLED lifespan: Approx. 50,000 hours\nRecharge cycles: Approx. 500 times\nCharging time: Approx. 1.5 hours\nContinuous operation time: Approx. 5 hours (when lit strongly)\nAccessories: USB cable, instruction manual and warranty\nManufactured in: China",
-    "status": "available",
+    "status": "sold_out",
     "images": [
       "https://chiikawamarket.jp/cdn/shop/files/4582487082732_01.jpg",
       "https://chiikawamarket.jp/cdn/shop/files/image_1_8bb4ccaf-d272-43d1-affa-893c5823492b.jpg",
@@ -8507,14 +7196,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Lighting/Humidifier",
-        "slug": "lighting/humidifier"
       }
     ],
     "vendor": "パンクス"
@@ -8551,18 +7232,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Lighting/Humidifier",
-        "slug": "lighting/humidifier"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "パンクス"
@@ -8599,18 +7268,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Lighting/Humidifier",
-        "slug": "lighting/humidifier"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "パンクス"
@@ -8621,7 +7278,7 @@
     "price": 3850,
     "name": "Chiikawa Desktop Light (Usagi)",
     "description": "A gentle light that heals has appeared as a new desktop light!\nSimply place Mascot on top of the charger shaped like a stump, and it will light up. Smartphones compatible with the Qi standard can also be wirelessly charged just by placing them on it.◎\nMascot is made of soft silicone material with a plush touch.♪\n\nSize:\n  Charger: Approximately H105×W105×D30mm\n  Mascot: Approximately H40×W70×D37mm\nMaterial:\n  Charger: ABS\n  Mascot: Silicone rubber\nManufactured in: China\n\n※ Qi (pronounced 'chee') standard is an international standard that allows wireless charging of smartphones without connecting a cable.\n※ If you charge with a smartphone in a thick case or with metal between the smartphone and the charging stand, charging may not occur or may be insufficient. If charging does not occur, please improve the condition mentioned above and place the smartphone again at the center of the stand.",
-    "status": "available",
+    "status": "sold_out",
     "images": [
       "https://chiikawamarket.jp/cdn/shop/files/4582487082831_1.jpg",
       "https://chiikawamarket.jp/cdn/shop/files/image_1_8c6558c2-33ea-455a-a2f9-b3dd14de99f4.jpg",
@@ -8647,18 +7304,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Lighting/Humidifier",
-        "slug": "lighting/humidifier"
-      },
-      {
-        "name": "PC/Smartphone goods",
-        "slug": "pc/smartphone-goods"
       }
     ],
     "vendor": "パンクス"
@@ -8699,6 +7344,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
@@ -8725,22 +7374,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Accessories/Watch",
-        "slug": "accessories/watch"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -8751,7 +7384,7 @@
     "price": 5060,
     "name": "Chiikawa Cushion Table (Rest a Bit)",
     "description": "Bonus Sticker included!\n\nSize: Approximately H295×W400×D120mm\nMaterial:\n  Top board: Synthetic wood resin coated MDF (Melamine resin)\n  Cushion side material: Polyester 92%, Polyurethane 8%\n  Cushion surface tape: Polyester 100%\n  Cushion core material: Polystyrene\n  Bonus Sticker: PET\nManufacturing location: China",
-    "status": "available",
+    "status": "sold_out",
     "images": [
       "https://chiikawamarket.jp/cdn/shop/files/4582662906389_1.jpg",
       "https://chiikawamarket.jp/cdn/shop/files/4582662906389_image1.jpg",
@@ -8805,14 +7438,6 @@
       {
         "name": "Beetle",
         "slug": "beetle"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -8848,18 +7473,6 @@
       {
         "name": "Anoko",
         "slug": "anoko"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Chiikawarestaurant",
-        "slug": "chiikawarestaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -8887,18 +7500,6 @@
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Chiikawarestaurant",
-        "slug": "chiikawarestaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -8934,18 +7535,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Chiikawarestaurant",
-        "slug": "chiikawarestaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -8981,18 +7570,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Chiikawarestaurant",
-        "slug": "chiikawarestaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9028,18 +7605,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Chiikawarestaurant",
-        "slug": "chiikawarestaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9079,18 +7644,6 @@
       {
         "name": "Dekatsuyo",
         "slug": "dekatsuyo"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Chiikawarestaurant",
-        "slug": "chiikawarestaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9110,6 +7663,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
@@ -9120,18 +7677,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
-      },
-      {
-        "name": "Chiikawarestaurant",
-        "slug": "chiikawarestaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9152,6 +7697,10 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Organizer",
+        "slug": "organizer"
       }
     ],
     "characters": [
@@ -9186,18 +7735,6 @@
       {
         "name": "Furuhonya",
         "slug": "furuhonya"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Organizer",
-        "slug": "organizer"
-      },
-      {
-        "name": "Chiikawarestaurant",
-        "slug": "chiikawarestaurant"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9229,18 +7766,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9271,14 +7796,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9309,18 +7826,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Plush",
-        "slug": "plush"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9349,10 +7854,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9381,10 +7882,6 @@
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9413,10 +7910,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9453,14 +7946,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Chiikawa Land",
-        "slug": "chiikawa-land"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9513,14 +7998,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9556,18 +8033,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Chiikawa Exciting Amusement Park",
-        "slug": "chiikawa-exciting-amusement-park"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9607,18 +8072,6 @@
       {
         "name": "Kurimanju",
         "slug": "kurimanju"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Chiikawa Exciting Amusement Park",
-        "slug": "chiikawa-exciting-amusement-park"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9646,18 +8099,6 @@
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Acrylic Stand",
-        "slug": "acrylic-stand"
-      },
-      {
-        "name": "Chiikawa Exciting Amusement Park",
-        "slug": "chiikawa-exciting-amusement-park"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9699,14 +8140,6 @@
       {
         "name": "Momonga",
         "slug": "momonga"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Chiikawa Exciting Amusement Park",
-        "slug": "chiikawa-exciting-amusement-park"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9742,10 +8175,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9781,10 +8210,6 @@
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9806,20 +8231,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Figure",
+        "slug": "figure"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Figure",
-        "slug": "figure"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9841,20 +8262,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Figure",
+        "slug": "figure"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Figure",
-        "slug": "figure"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9876,20 +8293,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Figure",
+        "slug": "figure"
       }
     ],
     "characters": [
       {
         "name": "Usagi",
         "slug": "usagi"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Figure",
-        "slug": "figure"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9931,14 +8344,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
-      },
-      {
-        "name": "Bedding/Cushion",
-        "slug": "bedding/cushion"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -9983,10 +8388,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -10031,10 +8432,6 @@
       {
         "name": "Shisa",
         "slug": "shisa"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -10058,24 +8455,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
       {
         "name": "Chiikawa",
         "slug": "chiikawa"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
@@ -10099,24 +8488,16 @@
       {
         "name": "Interior",
         "slug": "interior"
+      },
+      {
+        "name": "Goods",
+        "slug": "goods"
       }
     ],
     "characters": [
       {
         "name": "Hachiware",
         "slug": "hachiware"
-      },
-      {
-        "name": "Goods",
-        "slug": "goods"
-      },
-      {
-        "name": "Hair accessories/Mirror",
-        "slug": "hair-accessories/mirror"
-      },
-      {
-        "name": "Interior",
-        "slug": "interior"
       }
     ],
     "vendor": "グレイ・パーカー・サービス"
