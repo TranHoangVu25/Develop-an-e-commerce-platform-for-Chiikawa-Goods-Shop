@@ -14,3 +14,6 @@
 [submodule "payment_service"]
 	path = payment_service
 	url = https://github.com/anhtrung123A/chiikawa-payment-service
+[submodule "cart_service"]
+	path = cart_service
+	url = https://github.com/anhtrung123A/chiikawa-cart-service
