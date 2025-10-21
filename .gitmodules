@@ -8,3 +8,6 @@
 [submodule "search_service"]
 	path = search_service
 	url = https://github.com/anhtrung123A/chiikawa-search-service
+[submodule "promotion_service"]
+	path = promotion_service
+	url = https://github.com/anhtrung123A/chiikawa-promotion-service
