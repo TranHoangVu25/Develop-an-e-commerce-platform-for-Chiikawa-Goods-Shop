@@ -11,3 +11,6 @@
 [submodule "promotion_service"]
 	path = promotion_service
 	url = https://github.com/anhtrung123A/chiikawa-promotion-service
+[submodule "payment_service"]
+	path = payment_service
+	url = https://github.com/anhtrung123A/chiikawa-payment-service
