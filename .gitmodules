@@ -2,3 +2,6 @@
 	path = user_service
 	url = https://github.com/anhtrung123A/chiikawa-user-service
 
+[submodule "product_service"]
+	path = product_service
+	url = https://github.com/anhtrung123A/chiikawa-product-service
