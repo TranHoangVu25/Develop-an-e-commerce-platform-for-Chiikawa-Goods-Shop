@@ -1,0 +1,268 @@
+# ───────────────────────────────
+# Common YAML Anchors
+# ───────────────────────────────
+x-common-env: &common-env
+  env_file:
+    - .env
+  stdin_open: true
+  tty: true
+
+x-mongo-env: &mongo-env
+  MONGO_HOST: ${MONGO_HOST}
+  MONGO_USER: ${MONGO_USER}
+  MONGO_PASSWORD: ${MONGO_PASSWORD}
+
+x-rabbitmq-env: &rabbitmq-env
+  RABBITMQ_HOST: ${RABBITMQ_HOST}
+  RABBITMQ_USER: ${RABBITMQ_USER}
+  RABBITMQ_PASSWORD: ${RABBITMQ_PASSWORD}
+
+# ───────────────────────────────
+# Services
+# ───────────────────────────────
+services:
+  user_service:
+    build: ./user_service
+    container_name: user_service
+    ports:
+      - "3000:3000"
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+    <<: *common-env
+    environment:
+      <<: *rabbitmq-env
+      RAILS_ENV: ${RAILS_ENV}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_HOST: postgres
+      POSTGRES_DB: ${POSTGRES_DB}
+      DATABASE_URL: postgres://postgres:${POSTGRES_PASSWORD}@postgres:5432/${POSTGRES_DB}
+      REDIS_URL: redis://redis:6379
+      GMAIL_USERNAME: ${GMAIL_USERNAME}
+      GMAIL_PASSWORD: ${GMAIL_PASSWORD}
+      JWT_SECRET: ${JWT_SECRET}
+      LINE_CHANNEL_ID: ${LINE_CHANNEL_ID}
+      LINE_CHANNEL_SECRET: ${LINE_CHANNEL_SECRET}
+      LINE_REDIRECT_URI: ${LINE_REDIRECT_URI}
+
+  promotion_service:
+    build: ./promotion_service
+    container_name: promotion_service
+    ports:
+      - "3001:3001"
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+    <<: *common-env
+    environment:
+      <<: *rabbitmq-env
+      RAILS_ENV: ${RAILS_ENV}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_HOST: postgres
+      POSTGRES_DB: promotion_service
+      DATABASE_URL: postgres://postgres:${POSTGRES_PASSWORD}@postgres:5432/promotion_service
+      GMAIL_USERNAME: ${GMAIL_USERNAME}
+      GMAIL_PASSWORD: ${GMAIL_PASSWORD}
+      JWT_SECRET: ${JWT_SECRET}
+      LINE_CHANNEL_SECRET: ${LINE_CHANNEL_SECRET}
+      LINE_CHANNEL_ACCESS_TOKEN: ${LINE_CHANNEL_ACCESS_TOKEN}
+      STRIPE_SECRET_KEY: ${STRIPE_SECRET_KEY}
+
+  product_service:
+    build: ./product_service
+    container_name: product_service
+    ports:
+      - "3002:3002"
+    depends_on:
+      mongo:
+        condition: service_healthy
+      rabbitmq:
+        condition: service_healthy
+    <<: *common-env
+    environment:
+      <<: [*mongo-env, *rabbitmq-env]
+      RAILS_ENV: ${RAILS_ENV}
+
+  search_service:
+    build: ./search_service
+    container_name: search_service
+    ports:
+      - "3003:3003"
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+      rabbitmq:
+        condition: service_healthy
+    <<: *common-env
+    environment:
+      <<: *rabbitmq-env
+      RAILS_ENV: ${RAILS_ENV}
+      ELASTICSEARCH_HOST: elasticsearch
+
+  cart_service:
+    build: ./cart_service
+    container_name: cart_service
+    ports:
+      - "3004:3004"
+    depends_on:
+      mongo:
+        condition: service_healthy
+      rabbitmq:
+        condition: service_healthy
+    <<: *common-env
+    environment:
+      <<: [*mongo-env, *rabbitmq-env]
+      JWT_SECRET: ${JWT_SECRET}
+      RAILS_ENV: ${RAILS_ENV}
+      ORDER_SERVICE_HOST: order_service
+      ORDER_SERVICE_PORT: 50051
+
+  order_service:
+    build: ./order_service
+    container_name: order_service
+    ports:
+      - "3005:3005"
+    depends_on:
+      mongo:
+        condition: service_healthy
+      rabbitmq:
+        condition: service_healthy
+    <<: *common-env
+    environment:
+      <<: [*mongo-env, *rabbitmq-env]
+      JWT_SECRET: ${JWT_SECRET}
+      RAILS_ENV: ${RAILS_ENV}
+
+  payment_service:
+    build: ./payment_service
+    container_name: payment_service
+    ports:
+      - "3006:3006"
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+    <<: *common-env
+    environment:
+      <<: *rabbitmq-env
+      JWT_SECRET: ${JWT_SECRET}
+      RAILS_ENV: ${RAILS_ENV}
+      STRIPE_SECRET_KEY: ${STRIPE_SECRET_KEY}
+      STRIPE_WEBHOOK_SECRET: ${STRIPE_WEBHOOK_SECRET}
+      ORDER_SERVICE_HOST: order_service
+      ORDER_SERVICE_PORT: 50051
+
+  postgres:
+    image: postgres
+    container_name: postgres_db
+    restart: always
+    <<: *common-env
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis
+    container_name: redis_server
+    restart: always
+    command: ["redis-server", "--appendonly", "yes"]
+    ports:
+      - "6379:6379"
+    volumes:
+      - redisdata:/data
+
+  rabbitmq:
+    image: rabbitmq:3.12-management
+    container_name: rabbitmq
+    restart: always
+    <<: *common-env
+    environment:
+      RABBITMQ_DEFAULT_USER: ${RABBITMQ_USER}
+      RABBITMQ_DEFAULT_PASS: ${RABBITMQ_PASSWORD}
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    volumes:
+      - rabbitmq_data:/var/lib/rabbitmq
+    healthcheck:
+      test: rabbitmq-diagnostics -q ping
+      interval: 30s
+      timeout: 30s
+      retries: 3
+
+  mongo:
+    image: mongo
+    container_name: mongodb
+    restart: always
+    <<: *common-env
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_USER}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_PASSWORD}
+      MONGO_INITDB_DATABASE: app_data
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.15.0
+    container_name: elasticsearch
+    environment:
+      - discovery.type=single-node
+      - bootstrap.memory_lock=true
+      - ES_JAVA_OPTS=-Xms1g -Xmx1g
+      - xpack.security.enabled=false
+      - xpack.security.transport.ssl.enabled=false
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - elastic_data:/usr/share/elasticsearch/data
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+    restart: always
+    healthcheck:
+      test: ["CMD-SHELL", "curl -s http://localhost:9200/_cluster/health || exit 1"]
+      interval: 15s
+      timeout: 10s
+      retries: 10
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana:8.15.0
+    container_name: kibana
+    restart: always
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+    environment:
+      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+    ports:
+      - "5601:5601"
+
+# ───────────────────────────────
+# Volumes
+# ───────────────────────────────
+volumes:
+  pgdata:
+  redisdata:
+  rabbitmq_data:
+  mongo_data:
+  elastic_data:
