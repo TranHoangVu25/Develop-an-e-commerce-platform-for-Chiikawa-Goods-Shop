@@ -1,0 +1,4 @@
+[submodule "user_service"]
+	path = user_service
+	url = https://github.com/anhtrung123A/chiikawa-user-service
+
