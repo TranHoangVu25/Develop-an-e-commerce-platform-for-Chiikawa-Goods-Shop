@@ -1,0 +1,132 @@
+version: '3.9'
+
+services:
+  # 🐇 RabbitMQ
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: rabbitmq
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
+
+  # 🍃 MongoDB cho Product Service
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: 123456
+      MONGO_INITDB_DATABASE: product_service
+    volumes:
+      - mongo_data:/data/db
+      - ./mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js:ro
+
+  # 🔍 Elasticsearch
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.13.0
+    container_name: elasticsearch
+    environment:
+      - discovery.type=single-node
+      - ES_JAVA_OPTS=-Xms512m -Xmx512m
+      - xpack.security.enabled=false
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+    volumes:
+      - es_data:/usr/share/elasticsearch/data
+    healthcheck: # TĂNG THỜI GIAN KHỞI ĐỘNG VÀ SỐ LẦN THỬ
+      test: [ "CMD", "curl", "-f", "http://localhost:9200" ]
+      interval: 10s
+      timeout: 5s
+      retries: 20       # Tăng số lần thử lên 20 (tổng cộng 200s)
+      start_period: 120s # Tăng thời gian khởi động ban đầu lên 60s
+
+  # 📊 Kibana (tùy chọn)
+  kibana:
+    image: docker.elastic.co/kibana/kibana:8.13.0
+    container_name: kibana
+    environment:
+      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+    ports:
+      - "5601:5601"
+    depends_on:
+      - elasticsearch
+
+
+  # 🟩 Product Service (Java Spring Boot)
+  product_service:
+    build:
+      context: ./chikawa_product_service
+      dockerfile: Dockerfile
+    container_name: product_service
+    ports:
+      - "8082:8082"
+    depends_on:
+      - mongodb
+      - rabbitmq
+    environment:
+      # Cấu hình MongoDB
+      SPRING_DATA_MONGODB_URI: mongodb://admin:123456@mongodb:27017/product_service?authSource=admin
+      SPRING_DATA_MONGODB_AUTO_INDEX_CREATION: "true" # Đảm bảo giá trị boolean được truyền dưới dạng string nếu cần
+
+      # Cấu hình RabbitMQ
+      SPRING_RABBITMQ_HOST: rabbitmq
+      SPRING_RABBITMQ_PORT: 5672
+      SPRING_RABBITMQ_USERNAME: guest
+      SPRING_RABBITMQ_PASSWORD: guest
+
+      # Cấu hình Server
+      SERVER_PORT: 8082 # Port nội bộ
+
+      # Cấu hình JWT
+      JWT_SIGNER_KEY: "3m47O+gM3Sc0lc9I5pMhfGFZMoqvbFtLoNs6Lmq9nOg="
+
+
+  # 🟦 Search Service (Java Spring Boot)
+  search_service:
+    build:
+      context: ./search_service
+      dockerfile: Dockerfile
+    container_name: search_service
+    ports:
+      - "8084:8084"
+    depends_on:
+      elasticsearch: # <--- Bỏ dấu gạch ngang (-) và bắt đầu bằng tên service
+        condition: service_healthy
+      rabbitmq:
+        condition: service_started # RabbitMQ không có healthcheck, dùng service_started
+    environment:
+      SPRING_ELASTICSEARCH_URIS: http://elasticsearch:9200
+      SPRING_RABBITMQ_HOST: rabbitmq
+
+
+  # 🛒 Cart Service (Java Spring Boot)
+  chikawa_cart_service:
+    build:
+      context: ./chikawa_cart_service
+      dockerfile: Dockerfile
+    container_name: chikawa_cart_service
+    ports:
+      - "8079:8079" # Ánh xạ port 8079
+    depends_on:
+      - mongodb
+      - rabbitmq
+      - product_service # Phụ thuộc vào Product Service để gọi API
+    environment:
+      # MongoDB URI: Thay localhost bằng tên service 'mongodb' và DB là 'cart_service'
+      SPRING_DATA_MONGODB_URI: mongodb://admin:123456@mongodb:27017/cart_service?authSource=admin
+
+      # RabbitMQ Host: Thay localhost bằng tên service 'rabbitmq'
+      SPRING_RABBITMQ_HOST: rabbitmq
+      SPRING_RABBITMQ_PORT: 5672
+      SPRING_RABBITMQ_USERNAME: guest
+      SPRING_RABBITMQ_PASSWORD: guest
+
+volumes:
+  mongo_data:
+  es_data:
