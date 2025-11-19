@@ -10,3 +10,6 @@
 [submodule "chikawa-cart-service"]
 	path = chikawa-cart-service
 	url = https://github.com/TranHoangVu25/chikawa-cart-service.git
+[submodule "chikawa-search-service"]
+	path = chikawa-search-service
+	url = https://github.com/TranHoangVu25/chikawa-search-service.git
