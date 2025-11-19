@@ -22,3 +22,6 @@
 [submodule "chikawa-chatbot-manage-service"]
 	path = chikawa-chatbot-manage-service
 	url = https://github.com/TranHoangVu25/chikawa-chatbot-manage-service.git
+[submodule "chikawa-order-service"]
+	path = chikawa-order-service
+	url = https://github.com/TranHoangVu25/chikawa-order-service.git
