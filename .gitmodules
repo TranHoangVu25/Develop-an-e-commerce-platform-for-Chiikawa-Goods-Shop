@@ -16,3 +16,6 @@
 [submodule "chikawa_product_service"]
 	path = chikawa_product_service
 	url = https://github.com/TranHoangVu25/chikawa_product_service.git
+[submodule "chikawa_chat_helper"]
+	path = chikawa_chat_helper
+	url = https://github.com/TranHoangVu25/chikawa_chat_helper.git
