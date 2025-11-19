@@ -19,3 +19,6 @@
 [submodule "chikawa_chat_helper"]
 	path = chikawa_chat_helper
 	url = https://github.com/TranHoangVu25/chikawa_chat_helper.git
+[submodule "chikawa-chatbot-manage-service"]
+	path = chikawa-chatbot-manage-service
+	url = https://github.com/TranHoangVu25/chikawa-chatbot-manage-service.git
