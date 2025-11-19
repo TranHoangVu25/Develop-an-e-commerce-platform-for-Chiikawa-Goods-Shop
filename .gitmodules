@@ -7,3 +7,6 @@
 [submodule "chikawa-user-service"]
 	path = chikawa-user-service
 	url = https://github.com/TranHoangVu25/chikawa-user-service.git
+[submodule "chikawa-cart-service"]
+	path = chikawa-cart-service
+	url = https://github.com/TranHoangVu25/chikawa-cart-service.git
