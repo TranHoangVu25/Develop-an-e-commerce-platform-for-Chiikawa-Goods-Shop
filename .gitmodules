@@ -13,3 +13,6 @@
 [submodule "chikawa-search-service"]
 	path = chikawa-search-service
 	url = https://github.com/TranHoangVu25/chikawa-search-service.git
+[submodule "chikawa_product_service"]
+	path = chikawa_product_service
+	url = https://github.com/TranHoangVu25/chikawa_product_service.git
