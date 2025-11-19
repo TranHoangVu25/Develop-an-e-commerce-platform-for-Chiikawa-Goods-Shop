@@ -1,3 +1,6 @@
 [submodule "libs/chikawa-helper"]
 	path = libs/chikawa-helper
 	url = https://github.com/TranHoangVu25/chikawa_chat_helper
+[submodule "promotion-service"]
+	path = promotion-service
+	url = https://github.com/TranHoangVu25/chikawa-promotion-service
