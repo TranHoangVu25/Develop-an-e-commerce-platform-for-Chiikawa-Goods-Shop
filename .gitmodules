@@ -4,3 +4,6 @@
 [submodule "promotion-service"]
 	path = promotion-service
 	url = https://github.com/TranHoangVu25/chikawa-promotion-service
+[submodule "chikawa-user-service"]
+	path = chikawa-user-service
+	url = https://github.com/TranHoangVu25/chikawa-user-service.git
